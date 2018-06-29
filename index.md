@@ -1,42 +1,58 @@
-## Thing-to-Thing Research Group
+## CoRE Working Group
 
-The Thing-to-Thing Research Group (T2TRG) is an [IRTF](https://irtf.org/) research group investigating open research issues in turning a true “Internet of Things” into reality, an Internet where low-resource nodes (“things”, “constrained nodes”) can communicate among themselves and with the wider Internet, in order to partake in permissionless innovation. T2TRG focuses on issues that touch opportunities for standardization in the [IETF](https://ietf.org/): starting at the adaptation layer connecting devices to IP, all the way through to the application layer with architectures and APIs for communicating and making data and management functions (including security functions) available.
+The Constrained Restful Environments Working Group (CoREWG) is an [IETF](https://ietf.org/) working that provides a framework for resource-oriented applications intended to
+run on constrained IP networks. This includes applications to monitor simple
+sensors (e.g. temperature sensors, light switches, and power meters), to
+control actuators (e.g. light switches, heating controllers, and door
+locks), and to manage devices.
 
-More information about the group is available at the [IRTF home page](https://irtf.org/t2trg).
+The group will coordinate on requirements from many
+organizations and SDOs. The working group will closely coordinate with
+other IETF working groups, particularly of the constrained node networks
+cluster (6Lo, 6TiSCH, LWIG, ROLL, ACE, COSE), and appropriate
+groups in the IETF OPS and Security areas. Work on these subjects, as
+well as on interaction models and design patterns may benefit from close
+cooperation with the [Thing-to-Thing Research Group](http://t2trg.github.io/).
 
-Join the [mailing list](https://www.irtf.org/mailman/listinfo/t2trg) and the upcoming meetings to participate.
+More information about the working group is available at the [IETF CoRE group page](https://datatracker.ietf.org/wg/core/).
 
-T2TRG employs an open membership policy towards all interested researchers and engineers to participate in the work: joining the mailing list is really all you need to do to become a T2TRG member.
+Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upcoming meetings to participate.
 
 ### Upcoming Meetings
-* [T2TRG summary meeting, London, UK, 22 Mar 2018](https://github.com/t2trg/2018-ietf101)
-* [T2TRG joint meeting with OCF and W3C WoT, Prague, 23 Mar 2018](https://github.com/t2trg/2018-03-ocf-wot)
+* [IETF meeting, Montreal, CA, 14 Jul 2018](https://www.ietf.org/how/meetings/102/)
 
 ### Ongoing Activities
 
-* [Work on IoT Semantic/Hypermedia Interoperability](http://wishi.space/)
+* [CoAP Implementations](http://coap.technology)
+* [Tools page at IETF](https://tools.ietf.org/wg/core)
 
+### RFCs
 
-### Work Items
+* [Constrained RESTful Environments (CoRE) Link Format](https://tools.ietf.org/html/rfc6690)
+* [The Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7252)
+* [Group Communication for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7390)
+* [Observing Resources in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7641)
+* [Block-Wise Transfers in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7959)
+* [Guidelines for Mapping Implementations: HTTP to the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8075)
+* [PATCH and FETCH Methods for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8132)
+* [CoAP (Constrained Application Protocol) over TCP, TLS, and WebSockets](https://tools.ietf.org/html/rfc8323)
 
-* [RESTful Design for Internet of Things Systems](https://github.com/t2trg/t2trg-rest-iot)
-* [Security Considerations in the IP-based Internet of Things](https://github.com/t2trg/iot-seccons)
-* [The Constrained RESTful Application Language (CoRAL)](https://datatracker.ietf.org/doc/draft-hartke-t2trg-coral/)
-* PlugREST
+### Current Working Group Items on Github
 
-### Past Meetings
-* [T2TRG joint meeting with OCF, Singapore, SG, 10 Nov 2017](https://github.com/t2trg/2017-11-ocf)
-* [T2TRG summary meeting, Singapore, SG, 14 Nov 2017](https://github.com/t2trg/2017-ietf100)
-* [T2TRG meeting, Berlin, DE, 23-24 Sep 2017](https://github.com/t2trg/2017-09-berlin/)
-* [T2TRG Workshop on IoT Semantic/Hypermedia Interoperability (WISHI), Prague, CZ, 15-16 Jul 2017](https://github.com/t2trg/2017-07-wishi)
-* [T2TRG joint meeting with OCF, Amsterdam, NL, 9-10 Mar 2017](https://github.com/t2trg/2017-03-ocf)
-* [T2TRG joint meeting with ICNRG, Seoul, KR, 13 Nov 2016](https://github.com/t2trg/2016-11-icnrg)
-* [T2TRG Implementers Workshop, Ludwigsburg, DE, 27 Oct 2016](https://github.com/t2trg/2016-10-implementers)
-* [T2TRG joint meeting with W3C WoT, Lisbon, PT, 24-25 Sep 2016](https://github.com/t2trg/2016-09-w3c-wot)
-* [T2TRG joint meeting with RIOT Summit, Berlin, DE, 15-16 Jul 2016](https://github.com/t2trg/2016-RIOT-summit)
-* [T2TRG meeting, San Jose, CA, USA, 15-16 Mar 2016](https://github.com/t2trg/2016-03-san-jose)
-* [T2TRG joint meeting with W3C WoT, Nice, FR, 25-28 Jan 2016](https://github.com/t2trg/2016-01-w3c-wot)
-* [T2TRG joint meeting with W3C WoT, Yokohama, JP, 31-1 Nov 2015](https://github.com/t2trg/2015-ietf94/blob/master/summary.md)
-* [T2TRG joint meeting with W3C WoT, Prague, CZ, 18-19 Jul 2015](https://github.com/t2trg/2015-ietf93/blob/master/agenda.md)
-* [T2TRG joint meeting with W3C WoT, Munich, DE, 20 Apr 2015](https://github.com/t2trg/2015-04-w3c-wot)
-* [T2TRG meeting, Dallas, TX, USA, 21-22 Mar 2015](https://github.com/t2trg/2015-ietf92/blob/master/agenda.md)
+* [Echo and Request-Tag](https://github.com/core-wg/echo-request-tag
+* [CoRE Resource Directory](https://github.com/core-wg/resource-directory)
+* [Multipart Content-Format for CoAP](https://github.com/core-wg/multipart-ct)
+* [Object Security for Constrained RESTful Environments (OSCORE)](https://github.com/core-wg/oscoap)
+* [Reusable Interface Definitions for Constrained RESTful Environments](https://github.com/core-wg/interfaces)
+* [Too Many Requests Response Code for the Constrained Application Protocol](https://github.com/core-wg/too-many-reqs)
+* [CoAP Management Interface](https://github.com/core-wg/comi)
+* [Dynamic Resource Linking for Constrained RESTful Environments](https://github.com/core-wg/dynlink)
+* [CBOR Encoding of Data Modeled with YANG](https://github.com/core-wg/yang-cbor)
+* [Sensor Measurement Lists (SenML)](https://github.com/core-wg/senml-spec)
+* [CoAP Simple Congestion Control/Advanced](https://github.com/core-wg/cocoa)
+* [Publish-Subscribe Broker for the Constrained Application Protocol (CoAP)](https://github.com/core-wg/pubsub)
+* [CoRE Resource Directory: DNS-SD mapping](https://github.com/core-wg/rd-dns-sd)
+* [Secure group communication for CoAP](https://github.com/core-wg/oscore-groupcomm)
+* [A TCP and TLS Transport for the Constrained Application Protocol (CoAP)](https://github.com/core-wg/coap-tcp-tls)
+* [Patch and Fetch Methods for Constrained Application Protocol (CoAP)](https://github.com/core-wg/etch)
+* [Transport of CoAP over SMS](https://github.com/core-wg/sms)
