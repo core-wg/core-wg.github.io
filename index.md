@@ -39,7 +39,7 @@ Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upco
 
 ### Current Working Group Items on Github
 
-* [Echo and Request-Tag](https://github.com/core-wg/echo-request-tag
+* [Echo and Request-Tag](https://github.com/core-wg/echo-request-tag)
 * [CoRE Resource Directory](https://github.com/core-wg/resource-directory)
 * [Multipart Content-Format for CoAP](https://github.com/core-wg/multipart-ct)
 * [Object Security for Constrained RESTful Environments (OSCORE)](https://github.com/core-wg/oscoap)
