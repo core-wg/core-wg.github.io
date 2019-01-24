@@ -19,7 +19,7 @@ More information about the working group is available at the [IETF CoRE group pa
 Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upcoming meetings to participate.
 
 ### Upcoming Meetings
-* [IETF meeting, Montreal, CA, 14 Jul 2018](https://www.ietf.org/how/meetings/102/)
+* [IETF meeting, Prague, 23 Mar 2018](https://www.ietf.org/how/meetings/104/)
 
 ### Ongoing Activities
 
@@ -36,6 +36,8 @@ Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upco
 * [Guidelines for Mapping Implementations: HTTP to the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8075)
 * [PATCH and FETCH Methods for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8132)
 * [CoAP (Constrained Application Protocol) over TCP, TLS, and WebSockets](https://tools.ietf.org/html/rfc8323)
+* [Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8428)
+* ["Too Many Requests" Response Code for the Constrained Application Protocol](https://tools.ietf.org/html/rfc8516)
 
 ### Current Working Group Items on Github
 
@@ -48,11 +50,9 @@ Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upco
 * [CoAP Management Interface](https://github.com/core-wg/comi)
 * [Dynamic Resource Linking for Constrained RESTful Environments](https://github.com/core-wg/dynlink)
 * [CBOR Encoding of Data Modeled with YANG](https://github.com/core-wg/yang-cbor)
-* [Sensor Measurement Lists (SenML)](https://github.com/core-wg/senml-spec)
 * [CoAP Simple Congestion Control/Advanced](https://github.com/core-wg/cocoa)
 * [Publish-Subscribe Broker for the Constrained Application Protocol (CoAP)](https://github.com/core-wg/pubsub)
 * [CoRE Resource Directory: DNS-SD mapping](https://github.com/core-wg/rd-dns-sd)
 * [Secure group communication for CoAP](https://github.com/core-wg/oscore-groupcomm)
-* [A TCP and TLS Transport for the Constrained Application Protocol (CoAP)](https://github.com/core-wg/coap-tcp-tls)
 * [Patch and Fetch Methods for Constrained Application Protocol (CoAP)](https://github.com/core-wg/etch)
 * [Transport of CoAP over SMS](https://github.com/core-wg/sms)
