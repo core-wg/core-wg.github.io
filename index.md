@@ -19,7 +19,7 @@ More information about the working group is available at the [IETF CoRE group pa
 Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upcoming meetings to participate.
 
 ### Upcoming Meetings
-* [IETF meeting, Prague, 23 Mar 2018](https://www.ietf.org/how/meetings/104/)
+* [IETF meeting, Prague, 23 Mar 2019](https://www.ietf.org/how/meetings/104/)
 
 ### Ongoing Activities
 
