@@ -19,6 +19,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-coap-pubsub) /
 [Repo](https://github.com/core-wg/coap-pubsub) /
 [Issues](https://github.com/core-wg/coap-pubsub/issues)
+* **cocoa** -
+[Editors’ Draft](https://core-wg.github.io/cocoa/draft-ietf-core-cocoa.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-cocoa) /
+[Repo](https://github.com/core-wg/cocoa) /
+[Issues](https://github.com/core-wg/cocoa/issues)
 * **comi** -
 [Editors’ Draft](https://core-wg.github.io/comi/draft-ietf-core-comi.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-comi) /
@@ -34,6 +39,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dev-urn) /
 [Repo](https://github.com/core-wg/dev-urn) /
 [Issues](https://github.com/core-wg/dev-urn/issues)
+* **dynlink** -
+[Editors’ Draft](https://core-wg.github.io/dynlink/draft-ietf-core-dynlink.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-dynlink) /
+[Repo](https://github.com/core-wg/dynlink) /
+[Issues](https://github.com/core-wg/dynlink/issues)
 * **echo-request-tag** -
 [Editors’ Draft](https://core-wg.github.io/echo-request-tag/draft-ietf-core-echo-request-tag.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-echo-request-tag) /
@@ -59,6 +69,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm) /
 [Repo](https://github.com/core-wg/oscore-groupcomm) /
 [Issues](https://github.com/core-wg/oscore-groupcomm/issues)
+* **rd-dns-sd** -
+[Editors’ Draft](https://core-wg.github.io/rd-dns-sd/draft-ietf-core-rd-dns-sd.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-rd-dns-sd) /
+[Repo](https://github.com/core-wg/rd-dns-sd) /
+[Issues](https://github.com/core-wg/rd-dns-sd/issues)
 * **resource-directory** -
 [Editors’ Draft](https://core-wg.github.io/resource-directory/draft-ietf-core-resource-directory.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-resource-directory) /
@@ -99,21 +114,6 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-library) /
 [Repo](https://github.com/core-wg/yang-library) /
 [Issues](https://github.com/core-wg/yang-library/issues)
-* **dynlink** -
-[Editors’ Draft](https://core-wg.github.io/dynlink/draft-ietf-core-dynlink.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-dynlink) /
-[Repo](https://github.com/core-wg/dynlink) /
-[Issues](https://github.com/core-wg/dynlink/issues)
-* **rd-dns-sd** -
-[Editors’ Draft](https://core-wg.github.io/rd-dns-sd/draft-ietf-core-rd-dns-sd.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-rd-dns-sd) /
-[Repo](https://github.com/core-wg/rd-dns-sd) /
-[Issues](https://github.com/core-wg/rd-dns-sd/issues)
-* **cocoa** -
-[Editors’ Draft](https://core-wg.github.io/cocoa/draft-ietf-core-cocoa.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-cocoa) /
-[Repo](https://github.com/core-wg/cocoa) /
-[Issues](https://github.com/core-wg/cocoa/issues)
 
 ### Working Group RFC Repos
 
