@@ -1,6 +1,6 @@
 ## CoRE Working Group
 
-The [Constrained Restful Environments Working Group (CoREWG)](https://datatracker.ietf.org/wg/core/) is an [IETF](https://ietf.org/) working that provides a framework for REST applications intended to run on constrained IP networks.
+The [Constrained Restful Environments (CoRE)](https://datatracker.ietf.org/wg/core/) Working Group is an [IETF](https://ietf.org/) working that provides a framework for REST applications intended to run on constrained IP networks.
 
 You can see the current drafts on the [CoRE WG Github](https://github.com/core-wg/) as well as join the [mailing list](https://www.ietf.org/mailman/listinfo/core) to participate.
 
