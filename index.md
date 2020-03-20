@@ -14,7 +14,6 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 
 ### Working Group Items
 
-
 * **coap-pubsub** -
 [Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-pubsub.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-coap-pubsub) /
@@ -40,32 +39,49 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-resource-directory) /
 [Repo](https://github.com/core-wg/resource-directory) /
 [Open Issues](https://github.com/core-wg/resource-directory/issues)
+* **etch** -
+[Editors’ Draft](https://core-wg.github.io/etch/draft-ietf-core-etch.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-etch) /
+[Repo](https://github.com/core-wg/etch) /
+[Open Issues](https://github.com/core-wg/etch/issues)
+[RFC 8132](https://tools.ietf.org/html/rfc8132)
+* **coap-tcp-tls** -
+[Editors’ Draft](https://core-wg.github.io/coap-tcp-tls/draft-ietf-core-coap-tcp-tls.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-coap-tcp-tls) /
+[Repo](https://github.com/core-wg/coap-tcp-tls) /
+[Open Issues](https://github.com/core-wg/coap-tcp-tls/issues)
+[RFC 8323](https://tools.ietf.org/html/rfc8323)
+* **too-many-reqs** -
+[Editors’ Draft](https://core-wg.github.io/too-many-reqs/draft-ietf-core-too-many-reqs.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-too-many-reqs) /
+[Repo](https://github.com/core-wg/too-many-reqs) /
+[Open Issues](https://github.com/core-wg/too-many-reqs/issues)
+[RFC 8516](https://tools.ietf.org/html/rfc8516)
+* **oscore** -
+[Editors’ Draft](https://core-wg.github.io/oscore/draft-ietf-core-oscore.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-object-security) /
+[Repo](https://github.com/core-wg/oscore) /
+[Open Issues](https://github.com/core-wg/oscore/issues)
+[RFC 8613](https://tools.ietf.org/html/rfc8613)
 * **multipart-ct** -
 [Editors’ Draft](https://core-wg.github.io/multipart-ct/draft-ietf-core-multipart-ct.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-multipart-ct) /
 [Repo](https://github.com/core-wg/multipart-ct) /
 [Open Issues](https://github.com/core-wg/multipart-ct/issues)
-
+[RFC 8710](https://tools.ietf.org/html/rfc8710)
 
 ### Working Group Items (old)
 
-* [Constrained RESTful Application Language (CoRAL)](https://github.com/core-wg/coral)
-* [Echo and Request-Tag](https://github.com/core-wg/echo-request-tag)
-* [CoRE Resource Directory](https://github.com/core-wg/resource-directory)
-* [Multipart Content-Format for CoAP](https://github.com/core-wg/multipart-ct)
-* [Object Security for Constrained RESTful Environments (OSCORE)](https://github.com/core-wg/oscoap)
+* [Object Security for Constrained RESTful Environments (OSCORE)](https://github.com/core-wg/oscore)
 * [Reusable Interface Definitions for Constrained RESTful Environments](https://github.com/core-wg/interfaces)
 * [Too Many Requests Response Code for the Constrained Application Protocol](https://github.com/core-wg/too-many-reqs)
 * [CoAP Management Interface](https://github.com/core-wg/comi)
 * [Dynamic Resource Linking for Constrained RESTful Environments](https://github.com/core-wg/dynlink)
 * [CBOR Encoding of Data Modeled with YANG](https://github.com/core-wg/yang-cbor)
 * [CoAP Simple Congestion Control/Advanced](https://github.com/core-wg/cocoa)
-* [Publish-Subscribe Broker for the Constrained Application Protocol (CoAP)](https://github.com/core-wg/pubsub)
 * [CoRE Resource Directory: DNS-SD mapping](https://github.com/core-wg/rd-dns-sd)
 * [Secure group communication for CoAP](https://github.com/core-wg/oscore-groupcomm)
 * [Patch and Fetch Methods for Constrained Application Protocol (CoAP)](https://github.com/core-wg/etch)
-* [Transport of CoAP over SMS](https://github.com/core-wg/sms)
-
 
 
 ### RFCs
