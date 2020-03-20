@@ -1,47 +1,20 @@
 ## CoRE Working Group
 
-The Constrained Restful Environments Working Group (CoREWG) is an [IETF](https://ietf.org/) working that provides a framework for resource-oriented applications intended to
-run on constrained IP networks. This includes applications to monitor simple
-sensors (e.g. temperature sensors, light switches, and power meters), to
-control actuators (e.g. light switches, heating controllers, and door
-locks), and to manage devices.
-
-The group will coordinate on requirements from many
-organizations and SDOs. The working group will closely coordinate with
-other IETF working groups, particularly of the constrained node networks
-cluster (6Lo, 6TiSCH, LWIG, ROLL, ACE, COSE), and appropriate
-groups in the IETF OPS and Security areas. Work on these subjects, as
-well as on interaction models and design patterns may benefit from close
-cooperation with the [Thing-to-Thing Research Group](http://t2trg.github.io/).
-
-More information about the working group is available at the [IETF CoRE group page](https://datatracker.ietf.org/wg/core/).
+The [Constrained Restful Environments Working Group (CoREWG)](https://datatracker.ietf.org/wg/core/) is an [IETF](https://ietf.org/) working that provides a framework for REST applications intended to run on constrained IP networks.
 
 Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upcoming meetings to participate.
 
 ### Upcoming Meetings
 
-### Ongoing Activities
+We will be meeting at [IETF 107 in Vancouver](https://www.ietf.org/how/meetings/107/).
 
-* [CoAP Implementations](http://coap.technology)
-* [Tools page at IETF](https://tools.ietf.org/wg/core)
+### CoAP Implementations
 
-### RFCs
-
-* [Constrained RESTful Environments (CoRE) Link Format](https://tools.ietf.org/html/rfc6690)
-* [The Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7252)
-* [Group Communication for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7390)
-* [Observing Resources in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7641)
-* [Block-Wise Transfers in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7959)
-* [Guidelines for Mapping Implementations: HTTP to the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8075)
-* [PATCH and FETCH Methods for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8132)
-* [CoAP (Constrained Application Protocol) over TCP, TLS, and WebSockets](https://tools.ietf.org/html/rfc8323)
-* [Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8428)
-* ["Too Many Requests" Response Code for the Constrained Application Protocol](https://tools.ietf.org/html/rfc8516)
-* [Object Security for Constrained RESTful Environments (OSCORE)](https://tools.ietf.org/html/rfc8613) *new*
-* [Multipart Content-Format for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8710) *new*
+There is a number of [available implementations of CoAP](http://coap.technology).
 
 ### Current Working Group Items on Github
 
+* **senml-more-units** - [Editors’ Draft](https://core-wg.github.io/senml-more-units/#go.draft-ietf-core-senml-more-units.html) / [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) / [Repo](https://github.com/core-wg/senml-more-units) / [Open Issues](https://github.com/core-wg/senml-more-units/issues)
 * [Constrained RESTful Application Language (CoRAL)](https://github.com/core-wg/coral)
 * [Fetch and Patch with SenML](https://github.com/core-wg/senml-etch)
 * [Echo and Request-Tag](https://github.com/core-wg/echo-request-tag)
@@ -59,3 +32,19 @@ Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upco
 * [Secure group communication for CoAP](https://github.com/core-wg/oscore-groupcomm)
 * [Patch and Fetch Methods for Constrained Application Protocol (CoAP)](https://github.com/core-wg/etch)
 * [Transport of CoAP over SMS](https://github.com/core-wg/sms)
+
+
+### RFCs
+
+* [Constrained RESTful Environments (CoRE) Link Format](https://tools.ietf.org/html/rfc6690)
+* [The Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7252)
+* [Group Communication for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7390)
+* [Observing Resources in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7641)
+* [Block-Wise Transfers in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7959)
+* [Guidelines for Mapping Implementations: HTTP to the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8075)
+* [PATCH and FETCH Methods for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8132)
+* [CoAP (Constrained Application Protocol) over TCP, TLS, and WebSockets](https://tools.ietf.org/html/rfc8323)
+* [Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8428)
+* ["Too Many Requests" Response Code for the Constrained Application Protocol](https://tools.ietf.org/html/rfc8516)
+* [Object Security for Constrained RESTful Environments (OSCORE)](https://tools.ietf.org/html/rfc8613) *new*
+* [Multipart Content-Format for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8710) *new*
