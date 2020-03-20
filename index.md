@@ -99,9 +99,6 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-library) /
 [Repo](https://github.com/core-wg/yang-library) /
 [Issues](https://github.com/core-wg/yang-library/issues)
-
-### Expired
-
 * **dynlink** -
 [Editors’ Draft](https://core-wg.github.io/dynlink/draft-ietf-core-dynlink.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dynlink) /
