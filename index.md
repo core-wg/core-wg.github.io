@@ -2,7 +2,7 @@
 
 The [Constrained Restful Environments Working Group (CoREWG)](https://datatracker.ietf.org/wg/core/) is an [IETF](https://ietf.org/) working that provides a framework for REST applications intended to run on constrained IP networks.
 
-Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upcoming meetings to participate.
+You can see the current drafts on the [CoRE WG Github](https://github.com/core-wg/) as well as join the [mailing list](https://www.ietf.org/mailman/listinfo/core) to participate.
 
 ### Upcoming Meetings
 
@@ -69,6 +69,22 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-sid) /
 [Repo](https://github.com/core-wg/sid) /
 [Issues](https://github.com/core-wg/sid/issues)
+* **dynlink** -
+[Editors’ Draft](https://core-wg.github.io/dynlink/draft-ietf-core-dynlink.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-dynlink) /
+[Repo](https://github.com/core-wg/dynlink) /
+[Issues](https://github.com/core-wg/dynlink/issues)
+* **rd-dns-sd** -
+[Editors’ Draft](https://core-wg.github.io/rd-dns-sd/draft-ietf-core-rd-dns-sd.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-rd-dns-sd) /
+[Repo](https://github.com/core-wg/rd-dns-sd) /
+[Issues](https://github.com/core-wg/rd-dns-sd/issues)
+* **cocoa** -
+[Editors’ Draft](https://core-wg.github.io/cocoa/draft-ietf-core-cocoa.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-cocoa) /
+[Repo](https://github.com/core-wg/cocoa) /
+[Issues](https://github.com/core-wg/cocoa/issues)
+
 * **etch** -
 [Editors’ Draft](https://core-wg.github.io/etch/draft-ietf-core-etch.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-etch) /
@@ -99,21 +115,6 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [Repo](https://github.com/core-wg/multipart-ct) /
 [Issues](https://github.com/core-wg/multipart-ct/issues) /
 [RFC 8710](https://tools.ietf.org/html/rfc8710)
-
-
-### Working Group Items (old)
-
-* [Object Security for Constrained RESTful Environments (OSCORE)](https://github.com/core-wg/oscore)
-* [Reusable Interface Definitions for Constrained RESTful Environments](https://github.com/core-wg/interfaces)
-* [Too Many Requests Response Code for the Constrained Application Protocol](https://github.com/core-wg/too-many-reqs)
-* [CoAP Management Interface](https://github.com/core-wg/comi)
-* [Dynamic Resource Linking for Constrained RESTful Environments](https://github.com/core-wg/dynlink)
-* [CBOR Encoding of Data Modeled with YANG](https://github.com/core-wg/yang-cbor)
-* [CoAP Simple Congestion Control/Advanced](https://github.com/core-wg/cocoa)
-* [CoRE Resource Directory: DNS-SD mapping](https://github.com/core-wg/rd-dns-sd)
-* [Secure group communication for CoAP](https://github.com/core-wg/oscore-groupcomm)
-* [Patch and Fetch Methods for Constrained Application Protocol (CoAP)](https://github.com/core-wg/etch)
-
 
 ### RFCs
 
