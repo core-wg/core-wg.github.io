@@ -12,10 +12,10 @@ We will be meeting at [IETF 107 in Vancouver](https://www.ietf.org/how/meetings/
 
 There is a number of [available implementations of CoAP](http://coap.technology).
 
-### Current Working Group Items on Github
+### Working Group Items
 
 * **senml-more-units** -
-[Editors’ Draft](https://core-wg.github.io/senml-more-units/#go.draft-ietf-core-senml-more-units.html) / 
+[Editors’ Draft](https://core-wg.github.io/senml-more-units/#go.draft-ietf-core-senml-more-units.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) /
 [Repo](https://github.com/core-wg/senml-more-units) /
 [Open Issues](https://github.com/core-wg/senml-more-units/issues)
@@ -32,6 +32,7 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [Repo](https://github.com/core-wg/echo-request-tag) /
 [Open Issues](https://github.com/core-wg/echo-request-tag/issues)
 
+### Working Group Items (old)
 
 * [Constrained RESTful Application Language (CoRAL)](https://github.com/core-wg/coral)
 * [Echo and Request-Tag](https://github.com/core-wg/echo-request-tag)
