@@ -14,9 +14,26 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 
 ### Current Working Group Items on Github
 
-* **senml-more-units** - [Editors’ Draft](https://core-wg.github.io/senml-more-units/#go.draft-ietf-core-senml-more-units.html) / [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) / [Repo](https://github.com/core-wg/senml-more-units) / [Open Issues](https://github.com/core-wg/senml-more-units/issues)
+* **senml-more-units** -
+[Editors’ Draft](https://core-wg.github.io/senml-more-units/#go.draft-ietf-core-senml-more-units.html) / 
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) /
+[Repo](https://github.com/core-wg/senml-more-units) /
+[Open Issues](https://github.com/core-wg/senml-more-units/issues)
+
+* **senml-etch** -
+[Editors’ Draft](https://core-wg.github.io/senml-etch/#go.draft-ietf-core-senml-etch.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-etch) /
+[Repo](https://github.com/core-wg/senml-etch) /
+[Open Issues](https://github.com/core-wg/senml-etch/issues)
+
+* **echo-request-tag** -
+[Editors’ Draft](https://core-wg.github.io/echo-request-tag/draft-ietf-core-echo-request-tag.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-echo-request-tag) /
+[Repo](https://github.com/core-wg/echo-request-tag) /
+[Open Issues](https://github.com/core-wg/echo-request-tag/issues)
+
+
 * [Constrained RESTful Application Language (CoRAL)](https://github.com/core-wg/coral)
-* [Fetch and Patch with SenML](https://github.com/core-wg/senml-etch)
 * [Echo and Request-Tag](https://github.com/core-wg/echo-request-tag)
 * [CoRE Resource Directory](https://github.com/core-wg/resource-directory)
 * [Multipart Content-Format for CoAP](https://github.com/core-wg/multipart-ct)
