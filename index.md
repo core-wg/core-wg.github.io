@@ -120,13 +120,13 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 
 * [Constrained RESTful Environments (CoRE) Link Format](https://tools.ietf.org/html/rfc6690)
 * [The Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7252)
-* [Group Communication for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7390)
-* [Observing Resources in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7641)
-* [Block-Wise Transfers in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc7959)
-* [Guidelines for Mapping Implementations: HTTP to the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8075)
-* [PATCH and FETCH Methods for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8132)
-* [CoAP (Constrained Application Protocol) over TCP, TLS, and WebSockets](https://tools.ietf.org/html/rfc8323)
+* [Group Communication for CoAP](https://tools.ietf.org/html/rfc7390)
+* [Observing Resources in CoAP](https://tools.ietf.org/html/rfc7641)
+* [Block-Wise Transfers in CoAP](https://tools.ietf.org/html/rfc7959)
+* [Guidelines for Mapping Implementations: HTTP to CoAP](https://tools.ietf.org/html/rfc8075)
+* [PATCH and FETCH Methods for CoAP](https://tools.ietf.org/html/rfc8132)
+* [CoAP over TCP, TLS, and WebSockets](https://tools.ietf.org/html/rfc8323)
 * [Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8428)
-* ["Too Many Requests" Response Code for the Constrained Application Protocol](https://tools.ietf.org/html/rfc8516)
+* ["Too Many Requests" Response Code for CoAP](https://tools.ietf.org/html/rfc8516)
 * [Object Security for Constrained RESTful Environments (OSCORE)](https://tools.ietf.org/html/rfc8613) *new*
-* [Multipart Content-Format for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8710) *new*
+* [Multipart Content-Format for CoAP](https://tools.ietf.org/html/rfc8710) *new*
