@@ -30,15 +30,15 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [Repo](https://github.com/core-wg/comi) /
 [Issues](https://github.com/core-wg/comi/issues)
 * **coral** -
-[Editors’ Draft](https://core-wg.github.io/coral/draft-ietf-core-coral.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-coral) /
 [Repo](https://github.com/core-wg/coral) /
 [Issues](https://github.com/core-wg/coral/issues)
 * **dev-urn** -
-[Editors’ Draft](https://core-wg.github.io/dev-urn/draft-ietf-core-dev-urn.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dev-urn) /
-[Repo](https://github.com/core-wg/dev-urn) /
-[Issues](https://github.com/core-wg/dev-urn/issues)
+Repo /
+Issues
 * **dynlink** -
 [Editors’ Draft](https://core-wg.github.io/dynlink/draft-ietf-core-dynlink.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dynlink) /
@@ -50,20 +50,20 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [Repo](https://github.com/core-wg/echo-request-tag) /
 [Issues](https://github.com/core-wg/echo-request-tag/issues)
 * **fasor** -
-[Editors’ Draft](https://core-wg.github.io/fasor/draft-ietf-core-fasor.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-fasor) /
-[Repo](https://github.com/core-wg/fasor) /
-[Issues](https://github.com/core-wg/fasor/issues)
+Repo /
+Issues
 * **hop-limit** -
-[Editors’ Draft](https://core-wg.github.io/hop-limit/draft-ietf-core-hop-limit.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-hop-limit) /
-[Repo](https://github.com/core-wg/hop-limit) /
-[Issues](https://github.com/core-wg/hop-limit/issues)
+Repo /
+Issues
 * **href** -
-[Editors’ Draft](https://core-wg.github.io/href/draft-ietf-core-href.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-href) /
-[Repo](https://github.com/core-wg/href) /
-[Issues](https://github.com/core-wg/href/issues)
+Repo /
+Issues
 * **oscore-groupcomm** -
 [Editors’ Draft](https://core-wg.github.io/oscore-groupcomm/draft-ietf-core-oscore-groupcomm.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm) /
@@ -80,10 +80,10 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [Repo](https://github.com/core-wg/resource-directory) /
 [Issues](https://github.com/core-wg/resource-directory/issues)
 * **senml-data-ct** -
-[Editors’ Draft](https://core-wg.github.io/senml-data-ct/draft-ietf-core-senml-data-ct.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-data-ct) /
-[Repo](https://github.com/core-wg/senml-data-ct) /
-[Issues](https://github.com/core-wg/senml-data-ct/issues)
+Repo /
+Issues
 * **senml-etch** -
 [Editors’ Draft](https://core-wg.github.io/senml-etch/#go.draft-ietf-core-senml-etch.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-etch) /
@@ -95,30 +95,30 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [Repo](https://github.com/core-wg/senml-more-units) /
 [Issues](https://github.com/core-wg/senml-more-units/issues)
 * **sid** -
-[Editors’ Draft](https://core-wg.github.io/sid/draft-ietf-core-sid.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-sid) /
-[Repo](https://github.com/core-wg/sid) /
-[Issues](https://github.com/core-wg/sid/issues)
+Repo /
+Issues
 * **stateless** -
-[Editors’ Draft](https://core-wg.github.io/stateless/draft-ietf-core-stateless.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-stateless) /
-[Repo](https://github.com/core-wg/stateless) /
-[Issues](https://github.com/core-wg/stateless/issues)
+Repo /
+Issues
 * **yang-cbor** -
-[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-cbor.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-cbor) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 [Issues](https://github.com/core-wg/yang-cbor/issues)
 * **yang-library** -
-[Editors’ Draft](https://core-wg.github.io/yang-library/draft-ietf-core-yang-library.html) /
+Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-library) /
-[Repo](https://github.com/core-wg/yang-library) /
-[Issues](https://github.com/core-wg/yang-library/issues)
+Repo /
+Issues
 
 ### Working Group RFC Repos
 
 * **[RFC 8132](https://tools.ietf.org/html/rfc8132) etch** -
-[Editors’ Draft](https://core-wg.github.io/etch/draft-ietf-core-etch.html) /
+[Editors’ Draft](https://core-wg.github.io/etch/) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-etch) /
 [Repo](https://github.com/core-wg/etch) /
 [Issues](https://github.com/core-wg/etch/issues)
@@ -133,7 +133,7 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [Repo](https://github.com/core-wg/too-many-reqs) /
 [Issues](https://github.com/core-wg/too-many-reqs/issues)
 * **[RFC 8613](https://tools.ietf.org/html/rfc8613) oscore** -
-[Editors’ Draft](https://core-wg.github.io/oscore/draft-ietf-core-oscore.html) /
+[Editors’ Draft](https://core-wg.github.io/oscore/draft-ietf-core-object-security.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-object-security) /
 [Repo](https://github.com/core-wg/oscore) /
 [Issues](https://github.com/core-wg/oscore/issues) 
