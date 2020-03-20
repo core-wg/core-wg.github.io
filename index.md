@@ -19,7 +19,6 @@ More information about the working group is available at the [IETF CoRE group pa
 Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upcoming meetings to participate.
 
 ### Upcoming Meetings
-* [IETF meeting, Prague, 23 Mar 2019](https://www.ietf.org/how/meetings/104/)
 
 ### Ongoing Activities
 
@@ -38,9 +37,13 @@ Join the [mailing list](https://www.ietf.org/mailman/listinfo/core) and the upco
 * [CoAP (Constrained Application Protocol) over TCP, TLS, and WebSockets](https://tools.ietf.org/html/rfc8323)
 * [Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8428)
 * ["Too Many Requests" Response Code for the Constrained Application Protocol](https://tools.ietf.org/html/rfc8516)
+* [Object Security for Constrained RESTful Environments (OSCORE)](https://tools.ietf.org/html/rfc8613) *new*
+* [Multipart Content-Format for the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8710) *new*
 
 ### Current Working Group Items on Github
 
+* [Constrained RESTful Application Language (CoRAL)](https://github.com/core-wg/coral)
+* [Fetch and Patch with SenML](https://github.com/core-wg/senml-etch)
 * [Echo and Request-Tag](https://github.com/core-wg/echo-request-tag)
 * [CoRE Resource Directory](https://github.com/core-wg/resource-directory)
 * [Multipart Content-Format for CoAP](https://github.com/core-wg/multipart-ct)
