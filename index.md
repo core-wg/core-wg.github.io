@@ -14,6 +14,12 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 
 ### Working Group Items
 
+
+* **coap-pubsub** -
+[Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-pubsub.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-coap-pubsub) /
+[Repo](https://github.com/core-wg/coap-pubsub) /
+[Open Issues](https://github.com/core-wg/coap-pubsub/issues)
 * **senml-more-units** -
 [Editors’ Draft](https://core-wg.github.io/senml-more-units/#go.draft-ietf-core-senml-more-units.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) /
@@ -34,6 +40,12 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-resource-directory) /
 [Repo](https://github.com/core-wg/resource-directory) /
 [Open Issues](https://github.com/core-wg/resource-directory/issues)
+* **multipart-ct** -
+[Editors’ Draft](https://core-wg.github.io/multipart-ct/draft-ietf-core-multipart-ct.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-multipart-ct) /
+[Repo](https://github.com/core-wg/multipart-ct) /
+[Open Issues](https://github.com/core-wg/multipart-ct/issues)
+
 
 ### Working Group Items (old)
 
@@ -54,11 +66,8 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 * [Patch and Fetch Methods for Constrained Application Protocol (CoAP)](https://github.com/core-wg/etch)
 * [Transport of CoAP over SMS](https://github.com/core-wg/sms)
 
-* **multipart-ct** -
-[Editors’ Draft](https://core-wg.github.io/multipart-ct/draft-ietf-core-multipart-ct.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-multipart-ct) /
-[Repo](https://github.com/core-wg/multipart-ct) /
-[Open Issues](https://github.com/core-wg/multipart-ct/issues)
+
+
 ### RFCs
 
 * [Constrained RESTful Environments (CoRE) Link Format](https://tools.ietf.org/html/rfc6690)
