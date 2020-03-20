@@ -33,7 +33,7 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-coral) /
 [Repo](https://github.com/core-wg/coral) /
-[Issues](https://github.com/core-wg/coral/issues)
+[Issues](https://github.com/core-wg/coral/issues?q=is%3Aissue+is%3Aopen+label%3Acoral)
 * **dev-urn** -
 Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dev-urn) /
@@ -62,8 +62,8 @@ Issues
 * **href** -
 Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-href) /
-Repo /
-Issues
+[Repo](https://github.com/core-wg/coral) /
+[Issues](https://github.com/core-wg/coral/issues?q=is%3Aissue+is%3Aopen+label%3Ahref)
 * **oscore-groupcomm** -
 [Editors’ Draft](https://core-wg.github.io/oscore-groupcomm/draft-ietf-core-oscore-groupcomm.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm) /
@@ -95,9 +95,9 @@ Issues
 [Repo](https://github.com/core-wg/senml-more-units) /
 [Issues](https://github.com/core-wg/senml-more-units/issues)
 * **sid** -
-Editors’ Draft /
+[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-sid-latest.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-sid) /
-Repo /
+[Repo](https://github.com/core-wg/yang-cbor) /
 Issues
 * **stateless** -
 Editors’ Draft /
@@ -105,14 +105,14 @@ Editors’ Draft /
 Repo /
 Issues
 * **yang-cbor** -
-Editors’ Draft /
+[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-cbor-latest.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-cbor) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 [Issues](https://github.com/core-wg/yang-cbor/issues)
 * **yang-library** -
-Editors’ Draft /
+[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-library-latest.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-library) /
-Repo /
+[Repo](https://github.com/core-wg/yang-cbor) /
 Issues
 
 ### Working Group RFC Repos
