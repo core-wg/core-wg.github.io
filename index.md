@@ -80,10 +80,10 @@ Editors’ Draft /
 [Repo](https://github.com/core-wg/resource-directory) /
 [Issues](https://github.com/core-wg/resource-directory/issues)
 * **senml-data-ct** -
-Editors’ Draft /
+[Editors’ Draft](https://core-wg.github.io/senml-data-ct/#go.draft-ietf-core-senml-data-ct.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-data-ct) /
-Repo /
-Issues
+[Repo](https://github.com/core-wg/senml-data-ct) /
+[Issues](https://github.com/core-wg/senml-data-ct/issues)
 * **senml-etch** -
 [Editors’ Draft](https://core-wg.github.io/senml-etch/#go.draft-ietf-core-senml-etch.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-etch) /
@@ -100,10 +100,10 @@ Issues
 [Repo](https://github.com/core-wg/yang-cbor) /
 Issues
 * **stateless** -
-Editors’ Draft /
+[Editors’ Draft](https://core-wg.github.io/stateless/#go.draft-ietf-core-stateless.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-stateless) /
-Repo /
-Issues
+[Repo](https://github.com/core-wg/stateless) /
+[Issues](https://github.com/core-wg/stateless/issues)
 * **yang-cbor** -
 [Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-cbor-latest.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-cbor) /
