@@ -49,6 +49,11 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-echo-request-tag) /
 [Repo](https://github.com/core-wg/echo-request-tag) /
 [Issues](https://github.com/core-wg/echo-request-tag/issues)
+* **fasor** -
+[Editors’ Draft](https://core-wg.github.io/fasor/draft-ietf-core-fasor.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-fasor) /
+[Repo](https://github.com/core-wg/fasor) /
+[Issues](https://github.com/core-wg/fasor/issues)
 * **hop-limit** -
 Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-hop-limit) /
@@ -137,11 +142,6 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-multipart-ct) /
 [Repo](https://github.com/core-wg/multipart-ct) /
 [Issues](https://github.com/core-wg/multipart-ct/issues)
-* **[RFC8768](https://tools.ietf.org/html/rfc8768) fasor** -
-[Editors’ Draft](https://core-wg.github.io/fasor/draft-ietf-core-fasor.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-fasor) /
-[Repo](https://github.com/core-wg/fasor) /
-[Issues](https://github.com/core-wg/fasor/issues)
 
 ### All CoRE WG RFCs
 
