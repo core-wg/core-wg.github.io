@@ -2,7 +2,7 @@
 
 The [Constrained Restful Environments (CoRE)](https://datatracker.ietf.org/wg/core/) Working Group is an [IETF](https://ietf.org/) working that provides a framework for REST applications intended to run on constrained IP networks.
 
-You can see the current drafts on the [CoRE WG Github](https://github.com/core-wg/) as well as join the [mailing list](https://www.ietf.org/mailman/listinfo/core) to participate.
+You can see the current drafts on the [CoRE WG Github](https://github.com/core-wg/) as well as join the [mailing list](https://www.ietf.org/mailman/listinfo/core) to participate. Presentations, agendas and minutes from past meetings can be found in the [WG Materials](https://github.com/core-wg/wg-materials) repository.
 
 ### Upcoming Meetings
 
