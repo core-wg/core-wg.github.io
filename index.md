@@ -6,7 +6,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be meeting at [IETF 107 in Vancouver](https://www.ietf.org/how/meetings/107/).
+We will be meeting virtually [the 8th and 16th of April](https://datatracker.ietf.org/meeting/upcoming).
 
 ### CoAP Implementations
 
