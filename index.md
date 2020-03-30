@@ -8,6 +8,8 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 We will be meeting virtually [the 8th and 16th of April](https://datatracker.ietf.org/meeting/upcoming).
 
+See the [agenda](https://github.com/core-wg/wg-materials/blob/master/ietf107/core-107-agenda.md) for both days.
+
 ### CoAP Implementations
 
 There is a number of [available implementations of CoAP](http://coap.technology).
@@ -54,6 +56,11 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-fasor) /
 [Repo](https://github.com/core-wg/fasor) /
 [Issues](https://github.com/core-wg/fasor/issues)
+* **groupcomm-bis** -
+[Editors’ Draft](https://core-wg.github.io/groupcomm-bis/#go.draft-ietf-core-groupcomm-bis.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-groupcomm-bis) /
+[Repo](https://github.com/core-wg/groupcomm-bis) /
+[Issues](https://github.com/core-wg/groupcomm-bis/issues)
 * **href** -
 Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-href) /
