@@ -6,7 +6,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having virtul interim meetings every other week, until June (https://datatracker.ietf.org/meeting/upcoming).
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week, until June.
 
 <!--
 We will be meeting virtually [the 8th and 16th of April](https://datatracker.ietf.org/meeting/upcoming).
