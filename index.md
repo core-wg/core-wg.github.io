@@ -6,9 +6,13 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
+We will be having virtul interim meetings every other week, until June (https://datatracker.ietf.org/meeting/upcoming).
+
+<!--
 We will be meeting virtually [the 8th and 16th of April](https://datatracker.ietf.org/meeting/upcoming).
 
 See the [agenda](https://github.com/core-wg/wg-materials/tree/master/ietf107) for both days.
+-->
 
 ### CoAP Implementations
 
