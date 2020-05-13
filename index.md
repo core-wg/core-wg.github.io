@@ -105,7 +105,7 @@ Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) /
 [Repo](https://github.com/core-wg/senml-more-units) /
 [Issues](https://github.com/core-wg/senml-more-units/issues)
-* **senml-more-versions** -
+* **senml-versions** -
 [Editors’ Draft](https://core-wg.github.io/senml-versions/#go.draft-ietf-core-senml-versions.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-versions) /
 [Repo](https://github.com/core-wg/senml-versions) /
