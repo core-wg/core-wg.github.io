@@ -100,16 +100,6 @@ Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-data-ct) /
 [Repo](https://github.com/core-wg/senml-data-ct) /
 [Issues](https://github.com/core-wg/senml-data-ct/issues)
-* **senml-etch** -
-[Editors’ Draft](https://core-wg.github.io/senml-etch/#go.draft-ietf-core-senml-etch.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-etch) /
-[Repo](https://github.com/core-wg/senml-etch) /
-[Issues](https://github.com/core-wg/senml-etch/issues)
-* **senml-more-units** -
-[Editors’ Draft](https://core-wg.github.io/senml-more-units/#go.draft-ietf-core-senml-more-units.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) /
-[Repo](https://github.com/core-wg/senml-more-units) /
-[Issues](https://github.com/core-wg/senml-more-units/issues)
 * **senml-versions** -
 [Editors’ Draft](https://core-wg.github.io/senml-versions/#go.draft-ietf-core-senml-versions.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-versions) /
@@ -168,6 +158,16 @@ Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-hop-limit) /
 Repo /
 Issues
+* **[RFC8790](https://tools.ietf.org/html/rfc8790) senml-etch** -
+[Editors’ Draft](https://core-wg.github.io/senml-etch/#go.draft-ietf-core-senml-etch.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-etch) /
+[Repo](https://github.com/core-wg/senml-etch) /
+[Issues](https://github.com/core-wg/senml-etch/issues)
+* **[RFC8798](https://tools.ietf.org/html/rfc8798) senml-more-units** -
+[Editors’ Draft](https://core-wg.github.io/senml-more-units/#go.draft-ietf-core-senml-more-units.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) /
+[Repo](https://github.com/core-wg/senml-more-units) /
+[Issues](https://github.com/core-wg/senml-more-units/issues)
 
 ### All CoRE WG RFCs
 
