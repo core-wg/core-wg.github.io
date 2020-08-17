@@ -75,6 +75,11 @@ Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-href) /
 [Repo](https://github.com/core-wg/coral) /
 [Issues](https://github.com/core-wg/coral/issues?q=is%3Aissue+is%3Aopen+label%3Ahref)
+* **new-block** -
+[Editors’ Draft](https://core-wg.github.io/new-block/draft-ietf-core-new-block.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-new-block) /
+[Repo](https://github.com/core-wg/new-block) /
+[Issues](https://github.com/core-wg/new-block/issues)
 * **oscore-groupcomm** -
 [Editors’ Draft](https://core-wg.github.io/oscore-groupcomm/draft-ietf-core-oscore-groupcomm.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm) /
