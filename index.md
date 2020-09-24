@@ -18,7 +18,7 @@ See the [agenda](https://github.com/core-wg/wg-materials/tree/master/ietf107) fo
 
 There is a number of [available implementations of CoAP](http://coap.technology).
 
-### Working Group Repos
+### Working Group Draft Repos
 
 * **core-problem-details** -
 [Editors’ Draft](https://core-wg.github.io/core-problem-details/draft-ietf-core-problem-details.html) /
