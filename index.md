@@ -110,11 +110,6 @@ Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-sid) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 Issues
-* **stateless** -
-[Editors’ Draft](https://core-wg.github.io/stateless/#go.draft-ietf-core-stateless.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-stateless) /
-[Repo](https://github.com/core-wg/stateless) /
-[Issues](https://github.com/core-wg/stateless/issues)
 * **yang-cbor** -
 [Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-cbor-latest.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-cbor) /
@@ -168,6 +163,12 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) /
 [Repo](https://github.com/core-wg/senml-more-units) /
 [Issues](https://github.com/core-wg/senml-more-units/issues)
+* **[RFC8974]** (https://tools.ietf.org/html/rfc8974)
+[Editors’ Draft](https://core-wg.github.io/stateless/#go.draft-ietf-core-stateless.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-stateless) /
+[Repo](https://github.com/core-wg/stateless) /
+[Issues](https://github.com/core-wg/stateless/issues)
+
 
 ### All CoRE WG RFCs
 
@@ -181,6 +182,9 @@ Issues
 * [CoAP over TCP, TLS, and WebSockets](https://tools.ietf.org/html/rfc8323)
 * [Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8428)
 * ["Too Many Requests" Response Code for CoAP](https://tools.ietf.org/html/rfc8516)
-* [Object Security for Constrained RESTful Environments (OSCORE)](https://tools.ietf.org/html/rfc8613) *new*
-* [Multipart Content-Format for CoAP](https://tools.ietf.org/html/rfc8710) *new*
-* [Constrained Application Protocol (CoAP) Hop-Limit Option](https://tools.ietf.org/html/rfc8768) *new*
+* [Object Security for Constrained RESTful Environments (OSCORE)](https://tools.ietf.org/html/rfc8613)
+* [Multipart Content-Format for CoAP](https://tools.ietf.org/html/rfc8710)
+* [Constrained Application Protocol (CoAP) Hop-Limit Option](https://tools.ietf.org/html/rfc8768)
+* [FETCH and PATCH with Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8790)
+* [Additional Units for Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8798)
+* [Extended Tokens and Stateless Clients in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8974)
