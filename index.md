@@ -163,7 +163,7 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-more-units) /
 [Repo](https://github.com/core-wg/senml-more-units) /
 [Issues](https://github.com/core-wg/senml-more-units/issues)
-* **[RFC8974]** (https://tools.ietf.org/html/rfc8974)
+* **[RFC8974](https://tools.ietf.org/html/rfc8974) stateless** -
 [Editors’ Draft](https://core-wg.github.io/stateless/#go.draft-ietf-core-stateless.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-stateless) /
 [Repo](https://github.com/core-wg/stateless) /
