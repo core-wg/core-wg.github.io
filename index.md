@@ -80,6 +80,16 @@ Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-new-block) /
 [Repo](https://github.com/core-wg/new-block) /
 [Issues](https://github.com/core-wg/new-block/issues)
+* **observe-multicast-notifications** -
+[Editors’ Draft](https://core-wg.github.io/observe-multicast-notifications/draft-ietf-core-observe-multicast-notifications.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-observe-multicast-notifications) /
+[Repo](https://github.com/core-wg/observe-multicast-notifications) /
+[Issues](https://github.com/core-wg/observe-multicast-notifications/issues)
+* **oscore-edhoc** -
+[Editors’ Draft](https://core-wg.github.io/oscore-edhoc/draft-ietf-core-oscore-edhoc.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-edhoc) /
+[Repo](https://github.com/core-wg/oscore-edhoc) /
+[Issues](https://github.com/core-wg/oscore-edhoc/issues)
 * **oscore-groupcomm** -
 [Editors’ Draft](https://core-wg.github.io/oscore-groupcomm/draft-ietf-core-oscore-groupcomm.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm) /
