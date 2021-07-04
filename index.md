@@ -6,13 +6,9 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week, until June.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week, until July.
 
-<!--
-We will be meeting virtually [the 8th and 16th of April](https://datatracker.ietf.org/meeting/upcoming).
-
-See the [agenda](https://github.com/core-wg/wg-materials/tree/master/ietf107) for both days.
--->
+We will meet at [IETF 111](https://datatracker.ietf.org/meeting/111/session/core), on Wednesday, 2021-07-28.
 
 ### CoAP Implementations
 
@@ -45,11 +41,6 @@ Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-coral) /
 [Repo](https://github.com/core-wg/coral) /
 [Issues](https://github.com/core-wg/coral/issues?q=is%3Aissue+is%3Aopen+label%3Acoral)
-* **dev-urn** -
-Editors’ Draft /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-dev-urn) /
-Repo /
-Issues
 * **dynlink** -
 [Editors’ Draft](https://core-wg.github.io/dynlink/draft-ietf-core-dynlink.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dynlink) /
@@ -178,7 +169,11 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-stateless) /
 [Repo](https://github.com/core-wg/stateless) /
 [Issues](https://github.com/core-wg/stateless/issues)
-
+* **[RFC9039](https://tools.ietf.org/html/rfc9039) dev-urn** -
+Editors’ Draft /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-dev-urn) /
+Repo /
+Issues
 
 ### All CoRE WG RFCs
 
@@ -198,3 +193,4 @@ Issues
 * [FETCH and PATCH with Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8790)
 * [Additional Units for Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8798)
 * [Extended Tokens and Stateless Clients in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8974)
+* [Uniform Resource Names for Device Identifiers](https://tools.ietf.org/html/rfc9039)
