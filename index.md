@@ -36,6 +36,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-comi) /
 [Repo](https://github.com/core-wg/comi) /
 [Issues](https://github.com/core-wg/comi/issues)
+* **conditional-attributes** -
+[Editors’ Draft](https://core-wg.github.io/conditional-attributes/#go.draft-ietf-core-conditional-attributes.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-conditional-attributes) /
+[Repo](https://github.com/core-wg/conditional-attributes) /
+[Issues](https://github.com/core-wg/conditional-attributes/issues)
 * **coral** -
 Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-coral) /
