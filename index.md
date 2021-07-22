@@ -42,10 +42,10 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [Repo](https://github.com/core-wg/conditional-attributes) /
 [Issues](https://github.com/core-wg/conditional-attributes/issues)
 * **coral** -
-Editors’ Draft /
+[Editors’ Draft](https://core-wg.github.io/coral/#go.draft-ietf-core-coral.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-coral) /
 [Repo](https://github.com/core-wg/coral) /
-[Issues](https://github.com/core-wg/coral/issues?q=is%3Aissue+is%3Aopen+label%3Acoral)
+[Issues](https://github.com/core-wg/coral/issues)
 * **dynlink** -
 [Editors’ Draft](https://core-wg.github.io/dynlink/draft-ietf-core-dynlink.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dynlink) /
@@ -67,10 +67,10 @@ Editors’ Draft /
 [Repo](https://github.com/core-wg/groupcomm-bis) /
 [Issues](https://github.com/core-wg/groupcomm-bis/issues)
 * **href** -
-Editors’ Draft /
+[Editors’ Draft](https://core-wg.github.io/href/#go.draft-ietf-core-href.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-href) /
-[Repo](https://github.com/core-wg/coral) /
-[Issues](https://github.com/core-wg/coral/issues?q=is%3Aissue+is%3Aopen+label%3Ahref)
+[Repo](https://github.com/core-wg/href) /
+[Issues](https://github.com/core-wg/href/issues)
 * **new-block** -
 [Editors’ Draft](https://core-wg.github.io/new-block/draft-ietf-core-new-block.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-new-block) /
