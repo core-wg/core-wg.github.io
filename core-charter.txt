@@ -1,6 +1,6 @@
 Charter for Working Group
 
-CoRE provides a framework for resource-oriented applications intended to
+The CoRE Working Group (WG) provides a framework for resource-oriented applications intended to
 run on constrained IP networks. A constrained IP network has limited
 packet sizes, may exhibit a high degree of packet loss, and may have a
 substantial number of devices that may be powered off at any point in
@@ -25,16 +25,17 @@ The general architecture consists of nodes on the constrained network,
 called Devices, that are responsible for one or more Resources that may
 represent sensors, actuators, combinations of values, and/or other
 information. Devices send messages to change and query resources on
-other Devices. Devices can send notifications about changed resource
+other Devices. A Device can send notifications about changed resource
 values to Devices that have expressed their interest to receive
 notification about changes. A Device can also publish or be queried
-about its resources. (Typically a single physical host on the network
+about its resources. Typically a single physical host on the network
 would have just one Device but a host might represent multiple logical
 Devices. The specific terminology to be used here is to be decided by
-the working group.) As part of the framework for building these
+the working group. 
+
+As part of the framework for building these
 applications, the working group has defined a Constrained Application
 Protocol (CoAP) for the manipulation of Resources on a Device.
-
 CoAP is designed for use between Devices on the same constrained
 network, between Devices and general nodes on the Internet, and between
 Devices on different constrained networks both joined by an internet.
