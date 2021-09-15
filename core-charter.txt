@@ -1,128 +1,36 @@
-Charter for Working Group
+Charter for Working Group 
 
-The CoRE Working Group (WG) provides a framework for resource-oriented applications intended to
-run on constrained IP networks. A constrained IP network has limited
-packet sizes, may exhibit a high degree of packet loss, and may have a
-substantial number of devices that may be powered off at any point in
-time but periodically "wake up" for brief periods of time. These
-networks and the nodes within them are characterized by severe limits on
-throughput, available power, and particularly on the complexity that can
-be supported with limited code size and limited RAM per node [RFC 7228].
-More generally, we speak of constrained node networks whenever at least
-some of the nodes and networks involved exhibit these characteristics.
-Low-Power Wireless Personal Area Networks (LoWPANs) are an example of
-this type of network. Constrained networks can occur as part of home and
-building automation, energy management, and the Internet of Things.
+CoRE provides a framework for resource-oriented applications intended to run on constrained IP networks. A constrained IP network has limited packet sizes, may exhibit a high degree of packet loss, and may have a substantial number of devices that may be powered off at any point in time but periodically "wake up" for brief periods of time. These networks and the nodes within them are characterized by severe limits on throughput, available power, and particularly on the complexity that can be supported with limited code size and limited RAM per node [RFC 7228]. More generally, we speak of constrained node networks whenever at least some of the nodes and networks involved exhibit these characteristics. Low-Power Wireless Personal Area Networks (LoWPANs) are an example of this type of network. Constrained networks can occur as part of home and building automation, energy management, and the Internet of Things.
 
-The CoRE working group will define a framework for a limited class of
-applications: those that deal with the manipulation of simple resources
-on constrained networks. This includes applications to monitor simple
-sensors (e.g. temperature sensors, light switches, and power meters), to
-control actuators (e.g. light switches, heating controllers, and door
-locks), and to manage devices.
+The CoRE working group will define a framework for a limited class of applications: those that deal with the manipulation of simple resources on constrained networks. This includes applications to monitor simple sensors (e.g. temperature sensors, light switches, and power meters), to control actuators (e.g. light switches, heating controllers, and door locks), and to manage devices.
 
-The general architecture consists of nodes on the constrained network,
-called Devices, that are responsible for one or more Resources that may
-represent sensors, actuators, combinations of values, and/or other
-information. Devices send messages to change and query resources on
-other Devices. A Device can send notifications about changed resource
-values to Devices that have expressed their interest to receive
-notification about changes. A Device can also publish or be queried
-about its resources. Typically a single physical host on the network
-would have just one Device but a host might represent multiple logical
-Devices. The specific terminology to be used here is to be decided by
-the working group. 
+The general architecture consists of nodes on the constrained network, called Devices, that are responsible for one or more Resources that may represent sensors, actuators, combinations of values, and/or other information. Devices send messages to change and query resources on other Devices. Devices can send notifications about changed resource values to Devices that have expressed their interest to receive notification about changes. A Device can also publish or be queried about its resources. (Typically a single physical host on the network would have just one Device but a host might represent multiple logical Devices. The specific terminology to be used here is to be decided by the working group.) As part of the framework for building these applications, the working group has defined a Constrained Application Protocol (CoAP) for the manipulation of Resources on a Device.
 
-As part of the framework for building these
-applications, the working group has defined a Constrained Application
-Protocol (CoAP) for the manipulation of Resources on a Device.
-CoAP is designed for use between Devices on the same constrained
-network, between Devices and general nodes on the Internet, and between
-Devices on different constrained networks both joined by an internet.
-(CoAP is also being used via other mechanisms, such as SMS on mobile
-communication networks.) CoAP targets the type of operating
-environments defined in the ROLL and 6Lo working groups which have
-additional constraints compared to normal IP networks, but the CoAP
-protocol also operates over traditional IP networks.
+CoAP is designed for use between Devices on the same constrained network, between Devices and general nodes on the Internet, and between Devices on different constrained networks both joined by an internet. (CoAP is also being used via other mechanisms, such as SMS on mobile communication networks.) CoAP targets the type of operating environments defined in the ROLL and 6Lo working groups which have additional constraints compared to normal IP networks, but the CoAP protocol also operates over traditional IP networks.
 
-There also may be proxies that interconnect between other Internet
-protocols and the Devices using the CoAP protocol. It is worth noting
-that proxy does not have to occur at the boundary between the
-constrained network and the more general network, but can be deployed at
-various locations in the less-constrained network.
+There also may be proxies that interconnect between other Internet protocols and the Devices using the CoAP protocol. It is worth noting that proxy does not have to occur at the boundary between the constrained network and the more general network, but can be deployed at various locations in the less-constrained network.
 
-CoAP supports various forms of "caching". Beyond the benefits of
-caching already well known from REST, caching can be used to increase
-energy savings of low-power nodes by allowing them to be normally-off
-[RFC 7228]. For example, a temperature sensor might wake up every five
-minutes and send the current temperature to a proxy that has expressed
-interest in notifications; when the proxy receives a request over CoAP
-or HTTP for that temperature resource, it can respond with the last
-notified value (instead of trying to query the Device which may not be
-reachable at this time). The working group will continue to evolve this
-model to increase its practical applicability.
+CoAP supports various forms of "caching". Beyond the benefits of caching already well known from REST, caching can be used to increase energy savings of low-power nodes by allowing them to be normally-off [RFC 7228]. For example, a temperature sensor might wake up every five minutes and send the current temperature to a proxy that has expressed interest in notifications; when the proxy receives a request over CoAP or HTTP for that temperature resource, it can respond with the last notified value (instead of trying to query the Device which may not be reachable at this time). The working group will continue to evolve this model to increase its practical applicability.
 
-The working group will perform maintenance on its first four
-standards-track specifications:
+The working group will perform maintenance on its first four standards-track specifications: 
+
 - RFC 6690
 - RFC 7252
 - RFC 7641
 - draft-ietf-core-block
-and will continue to evolve the experimental group communications
-support (RFC 7390). The working group will not develop a reliable
-multicast solution.
 
-CoAP today works over UDP and DTLS. The working group will define
-transport mappings for alternative transports as required, both IP
-(starting with TCP and a secure version over TLS) and non-IP (e.g., SMS,
-working with the security area on potentially addressing the security gap); this
-includes defining appropriate URI schemes. Continued compatibility with
-CoAP over SMS as defined in OMA LWM2M will be considered.
+and will continue to evolve the experimental group communications support (RFC 7390). The working group will not develop a reliable multicast solution.
 
-CoRE will continue and complete its work on
-draft-ietf-core-resource-directory, as already partially adopted by OMA
-LWM2M. Interoperability with DNS-SD (and the work of the dnssd working
-group) will be a primary consideration. The working group will also
-work on a specification enabling broker-based publish-subscribe-style
-communication over CoAP.
+CoAP today works over UDP and DTLS. The working group will define transport mappings for alternative transports as required, both IP (starting with TCP and a secure version over TLS) and non-IP (e.g., SMS, working with the security area on potentially addressing the security gap); this includes defining appropriate URI schemes. Continued compatibility with CoAP over SMS as defined in OMA LWM2M will be considered. 
 
-CoRE will work on related data formats, such as alternative
-representations of RFC 6690 link format and RFC 7390 group communication
-information. The working group will complete the SenML specification,
-again with consideration to its adoption in OMA LWM2M.
+CoRE will continue and complete its work on draft-ietf-core-resource-directory, as already partially adopted by OMA LWM2M. Interoperability with DNS-SD (and the work of the dnssd working group) will be a primary consideration. The working group will also work on a specification enabling broker-based publish-subscribe-style communication over CoAP.
 
-RFC 7252 defines a basic HTTP mapping for CoAP, with further discussion
-in draft-ietf-core-http-mapping. This mapping will be evolved and
-supported by further documents.
+CoRE will work on related data formats, such as alternative representations of RFC 6690 link format and RFC 7390 group communication information. The working group will complete the SenML specification, again with consideration to its adoption in OMA LWM2M. 
 
-Besides continuing to examine operational and manageability aspects of
-the CoAP protocol itself, CoRE will also develop a way to make
-RESTCONF-style management functions available via CoAP that is
-appropriate for constrained node networks. This will require very close
-coordination with NETCONF and other operations and management working
-groups. YANG data models will be used for manageability. Note that
-the YANG modeling language is not a target for change in
-this process, though additional mechanisms that support YANG
-modules may be employed in specific cases where significant
-performance gains are both attainable and required. The working
-group will continue to consider the OMA LWM2M management functions
-as a well-accepted alternative form of management and provide
-support at the CoAP protocol level where required.
+RFC 7252 defines a basic HTTP mapping for CoAP, with further discussion in draft-ietf-core-http-mapping. This mapping will be evolved and supported by further documents.
 
-The working group has selected DTLS as the basis for the communications
-security in CoAP. CoRE will work with the TLS working group on the
-efficiency of this solution. The preferred cipher suites will evolve in
-cooperation with the TLS working group and CFRG. The ACE working group
-is expected to provide solutions to authorization that may need
-complementary elements on the CoRE side. Object security as defined in
-JOSE and being adapted to the constrained node network requirements in
-COSE also may need additions on the CoRE side.
+Besides continuing to examine operational and manageability aspects of the CoAP protocol itself, CoRE will also develop a way to make RESTCONF-style management functions available via CoAP that is appropriate for constrained node networks. This will require very close coordination with NETCONF and other operations and management working groups. YANG data models will be used for manageability. Note that the YANG modeling language is not a target for change in this process, though additional mechanisms that support YANG modules may be employed in specific cases where significant performance gains are both attainable and required. The working group will continue to consider the OMA LWM2M management functions as a well-accepted alternative form of management and provide support at the CoAP protocol level where required.
 
-The working group will coordinate on requirements from many
-organizations and SDO. The working group will closely coordinate with
-other IETF working groups, particularly of the constrained node networks
-cluster (6Lo, 6TiSCH, LWIG, ROLL, ACE, COSE), and appropriate
-groups in the IETF OPS and Security areas. Work on these subjects, as
-well as on interaction models and design patterns (including follow-up
-work around the CoRE Interfaces draft) may benefit from close
-cooperation with the proposed Thing-to-Thing Research Group.
+The working group has selected DTLS as the basis for the communications security in CoAP. CoRE will work with the TLS working group on the efficiency of this solution. The preferred cipher suites will evolve in cooperation with the TLS working group and CFRG. The ACE working group is expected to provide solutions to authorization that may need complementary elements on the CoRE side. Object security as defined in JOSE and being adapted to the constrained node network requirements in COSE also may need additions on the CoRE side.
+
+The working group will coordinate on requirements from many organizations and SDO. The working group will closely coordinate with other IETF working groups, particularly of the constrained node networks cluster (6Lo, 6TiSCH, LWIG, ROLL, ACE, COSE), and appropriate groups in the IETF OPS and Security areas. Work on these subjects, as well as on interaction models and design patterns (including follow-up work around the CoRE Interfaces draft) may benefit from close cooperation with the proposed Thing-to-Thing Research Group.
