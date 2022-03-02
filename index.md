@@ -6,9 +6,9 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week, until July.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week, until 2022-03-02.
 
-We will meet at [IETF 111](https://datatracker.ietf.org/meeting/111/session/core), on Wednesday, 2021-07-28.
+We will meet at [IETF 113](https://datatracker.ietf.org/meeting/113/session/core), on Friday, 2022-03-25.
 
 ### CoAP Implementations
 
@@ -51,11 +51,6 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dynlink) /
 [Repo](https://github.com/core-wg/dynlink) /
 [Issues](https://github.com/core-wg/dynlink/issues)
-* **echo-request-tag** -
-[Editors’ Draft](https://core-wg.github.io/echo-request-tag/draft-ietf-core-echo-request-tag.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-echo-request-tag) /
-[Repo](https://github.com/core-wg/echo-request-tag) /
-[Issues](https://github.com/core-wg/echo-request-tag/issues)
 * **fasor** -
 [Editors’ Draft](https://core-wg.github.io/fasor/draft-ietf-core-fasor.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-fasor) /
@@ -179,6 +174,16 @@ Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dev-urn) /
 Repo /
 Issues
+* **[RFC9100](https://tools.ietf.org/html/rfc9175) senml-versions** -
+[Editors’ Draft](https://core-wg.github.io/senml-versions/draft-ietf-core-senml-versions.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-versions) /
+[Repo](https://github.com/core-wg/senml-versions) /
+[Issues](https://github.com/core-wg/senml-versions/issues)
+* **[RFC9175](https://tools.ietf.org/html/rfc9175) echo-request-tag** -
+[Editors’ Draft](https://core-wg.github.io/echo-request-tag/draft-ietf-core-echo-request-tag.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-echo-request-tag) /
+[Repo](https://github.com/core-wg/echo-request-tag) /
+[Issues](https://github.com/core-wg/echo-request-tag/issues)
 
 ### All CoRE WG RFCs
 
@@ -199,3 +204,5 @@ Issues
 * [Additional Units for Sensor Measurement Lists (SenML)](https://tools.ietf.org/html/rfc8798)
 * [Extended Tokens and Stateless Clients in the Constrained Application Protocol (CoAP)](https://tools.ietf.org/html/rfc8974)
 * [Uniform Resource Names for Device Identifiers](https://tools.ietf.org/html/rfc9039)
+* [Sensor Measurement Lists (SenML) Features and Versions](https://tools.ietf.org/html/rfc9100)
+* [Constrained Application Protocol (CoAP): Echo, Request-Tag, and Token Processing](https://tools.ietf.org/html/rfc9175)
