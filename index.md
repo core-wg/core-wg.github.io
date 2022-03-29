@@ -6,9 +6,11 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week, until 2022-03-02.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week, starting from 2022-04-27.
 
-We will meet at [IETF 113](https://datatracker.ietf.org/meeting/113/session/core), on Friday, 2022-03-25.
+<!--
+We will meet at [IETF 113](https://datatracker.ietf.org/meeting/114/session/core), on TBD
+-->
 
 ### CoAP Implementations
 
@@ -66,11 +68,6 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-href) /
 [Repo](https://github.com/core-wg/href) /
 [Issues](https://github.com/core-wg/href/issues)
-* **new-block** -
-[Editors’ Draft](https://core-wg.github.io/new-block/draft-ietf-core-new-block.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-new-block) /
-[Repo](https://github.com/core-wg/new-block) /
-[Issues](https://github.com/core-wg/new-block/issues)
 * **observe-multicast-notifications** -
 [Editors’ Draft](https://core-wg.github.io/observe-multicast-notifications/draft-ietf-core-observe-multicast-notifications.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-observe-multicast-notifications) /
@@ -184,6 +181,12 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-echo-request-tag) /
 [Repo](https://github.com/core-wg/echo-request-tag) /
 [Issues](https://github.com/core-wg/echo-request-tag/issues)
+* **[RFC9177](https://tools.ietf.org/html/rfc9177) new-block** -
+[Editors’ Draft](https://core-wg.github.io/new-block/draft-ietf-core-new-block.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-new-block) /
+[Repo](https://github.com/core-wg/new-block) /
+[Issues](https://github.com/core-wg/new-block/issues)
+
 
 ### All CoRE WG RFCs
 
@@ -206,3 +209,4 @@ Issues
 * [Uniform Resource Names for Device Identifiers](https://tools.ietf.org/html/rfc9039)
 * [Sensor Measurement Lists (SenML) Features and Versions](https://tools.ietf.org/html/rfc9100)
 * [Constrained Application Protocol (CoAP): Echo, Request-Tag, and Token Processing](https://tools.ietf.org/html/rfc9175)
+* [Constrained Application Protocol (CoAP) Block-Wise Transfer Options Supporting Robust Transmission](https://datatracker.ietf.org/doc/html/rfc9177)
