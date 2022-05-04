@@ -24,7 +24,7 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [Repo](https://github.com/core-wg/core-problem-details) /
 [Issues](https://github.com/core-wg/core-problem-details/issues)
 * **coap-pubsub** -
-[Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-pubsub.html) /
+[Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-coap-pubsub.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-coap-pubsub) /
 [Repo](https://github.com/core-wg/coap-pubsub) /
 [Issues](https://github.com/core-wg/coap-pubsub/issues)
