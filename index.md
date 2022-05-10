@@ -23,6 +23,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-problem-details) /
 [Repo](https://github.com/core-wg/core-problem-details) /
 [Issues](https://github.com/core-wg/core-problem-details/issues)
+* **core-attacks-on-coap** -
+[Editors’ Draft](https://core-wg.github.io/attacks-on-coap/#go.draft-ietf-core-attacks-on-coap.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-attacks-on-coap) /
+[Repo](https://github.com/core-wg/attacks-on-coap) /
+[Issues](https://github.com/core-wg/attacks-on-coap/issues)
 * **coap-pubsub** -
 [Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-coap-pubsub.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-coap-pubsub) /
@@ -88,11 +93,6 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-rd-dns-sd) /
 [Repo](https://github.com/core-wg/rd-dns-sd) /
 [Issues](https://github.com/core-wg/rd-dns-sd/issues)
-* **resource-directory** -
-[Editors’ Draft](https://core-wg.github.io/resource-directory/draft-ietf-core-resource-directory.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-resource-directory) /
-[Repo](https://github.com/core-wg/resource-directory) /
-[Issues](https://github.com/core-wg/resource-directory/issues)
 * **senml-data-ct** -
 [Editors’ Draft](https://core-wg.github.io/senml-data-ct/#go.draft-ietf-core-senml-data-ct.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-data-ct) /
@@ -181,6 +181,11 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-echo-request-tag) /
 [Repo](https://github.com/core-wg/echo-request-tag) /
 [Issues](https://github.com/core-wg/echo-request-tag/issues)
+* **[RFC9176](https://tools.ietf.org/html/rfc9176) resource-directory** -
+[Editors’ Draft](https://core-wg.github.io/resource-directory/draft-ietf-core-resource-directory.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-resource-directory) /
+[Repo](https://github.com/core-wg/resource-directory) /
+[Issues](https://github.com/core-wg/resource-directory/issues)
 * **[RFC9177](https://tools.ietf.org/html/rfc9177) new-block** -
 [Editors’ Draft](https://core-wg.github.io/new-block/draft-ietf-core-new-block.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-new-block) /
@@ -209,4 +214,5 @@ Issues
 * [Uniform Resource Names for Device Identifiers](https://tools.ietf.org/html/rfc9039)
 * [Sensor Measurement Lists (SenML) Features and Versions](https://tools.ietf.org/html/rfc9100)
 * [Constrained Application Protocol (CoAP): Echo, Request-Tag, and Token Processing](https://tools.ietf.org/html/rfc9175)
+* [Constrained RESTful Environments (CoRE) Resource Directory](https://tools.ietf.org/html/rfc9176)
 * [Constrained Application Protocol (CoAP) Block-Wise Transfer Options Supporting Robust Transmission](https://datatracker.ietf.org/doc/html/rfc9177)
