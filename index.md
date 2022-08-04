@@ -18,12 +18,12 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 
 ### Working Group Draft Repos
 
-* **core-problem-details** -
+* **problem-details** -
 [Editors’ Draft](https://core-wg.github.io/core-problem-details/draft-ietf-core-problem-details.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-problem-details) /
 [Repo](https://github.com/core-wg/core-problem-details) /
 [Issues](https://github.com/core-wg/core-problem-details/issues)
-* **core-attacks-on-coap** -
+* **attacks-on-coap** -
 [Editors’ Draft](https://core-wg.github.io/attacks-on-coap/#go.draft-ietf-core-attacks-on-coap.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-attacks-on-coap) /
 [Repo](https://github.com/core-wg/attacks-on-coap) /
@@ -93,26 +93,16 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-rd-dns-sd) /
 [Repo](https://github.com/core-wg/rd-dns-sd) /
 [Issues](https://github.com/core-wg/rd-dns-sd/issues)
-* **senml-data-ct** -
-[Editors’ Draft](https://core-wg.github.io/senml-data-ct/#go.draft-ietf-core-senml-data-ct.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-data-ct) /
-[Repo](https://github.com/core-wg/senml-data-ct) /
-[Issues](https://github.com/core-wg/senml-data-ct/issues)
-* **senml-versions** -
-[Editors’ Draft](https://core-wg.github.io/senml-versions/#go.draft-ietf-core-senml-versions.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-versions) /
-[Repo](https://github.com/core-wg/senml-versions) /
-[Issues](https://github.com/core-wg/senml-versions/issues)
 * **sid** -
 [Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-sid-latest.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-sid) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 Issues
-* **yang-cbor** -
-[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-cbor-latest.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-cbor) /
-[Repo](https://github.com/core-wg/yang-cbor) /
-[Issues](https://github.com/core-wg/yang-cbor/issues)
+* **transport-indication** -
+[Editors’ Draft](https://core-wg.github.io/transport-indication/draft-ietf-core-transport-indication.html) /
+[WG Draft](https://datatracker.ietf.org/doc/draft-ietf-core-transport-indication) /
+[Repo](https://github.com/core-wg/transport-indication) /
+[Issues](https://github.com/core-wg/transport-indication/issues)
 * **yang-library** -
 [Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-library-latest.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-library) /
@@ -171,7 +161,7 @@ Editors’ Draft /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-dev-urn) /
 Repo /
 Issues
-* **[RFC9100](https://tools.ietf.org/html/rfc9175) senml-versions** -
+* **[RFC9100](https://tools.ietf.org/html/rfc9100) senml-versions** -
 [Editors’ Draft](https://core-wg.github.io/senml-versions/draft-ietf-core-senml-versions.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-versions) /
 [Repo](https://github.com/core-wg/senml-versions) /
@@ -191,7 +181,16 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-new-block) /
 [Repo](https://github.com/core-wg/new-block) /
 [Issues](https://github.com/core-wg/new-block/issues)
-
+* **[RFC9193](https://tools.ietf.org/html/rfc9193) senml-data-ct** -
+[Editors’ Draft](https://core-wg.github.io/senml-data-ct/#go.draft-ietf-core-senml-data-ct.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-senml-data-ct) /
+[Repo](https://github.com/core-wg/senml-data-ct) /
+[Issues](https://github.com/core-wg/senml-data-ct/issues)
+* **[RFC9254](https://tools.ietf.org/html/rfc9254) yang-cbor** -
+[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-cbor-latest.html) /
+[WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-cbor) /
+[Repo](https://github.com/core-wg/yang-cbor) /
+[Issues](https://github.com/core-wg/yang-cbor/issues)
 
 ### All CoRE WG RFCs
 
@@ -216,3 +215,5 @@ Issues
 * [Constrained Application Protocol (CoAP): Echo, Request-Tag, and Token Processing](https://tools.ietf.org/html/rfc9175)
 * [Constrained RESTful Environments (CoRE) Resource Directory](https://tools.ietf.org/html/rfc9176)
 * [Constrained Application Protocol (CoAP) Block-Wise Transfer Options Supporting Robust Transmission](https://datatracker.ietf.org/doc/html/rfc9177)
+* [Sensor Measurement Lists (SenML) Fields for Indicating Data Value Content-Format](https://datatracker.ietf.org/doc/html/rfc9193)
+* [Encoding of Data Modeled with YANG in the Concise Binary Object Representation (CBOR)](https://datatracker.ietf.org/doc/html/rfc9254)
