@@ -20,92 +20,97 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 
 * **problem-details** -
 [Editors’ Draft](https://core-wg.github.io/core-problem-details/draft-ietf-core-problem-details.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-problem-details) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-problem-details/) /
 [Repo](https://github.com/core-wg/core-problem-details) /
 [Issues](https://github.com/core-wg/core-problem-details/issues)
-* **attacks-on-coap** -
-[Editors’ Draft](https://core-wg.github.io/attacks-on-coap/#go.draft-ietf-core-attacks-on-coap.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-attacks-on-coap) /
-[Repo](https://github.com/core-wg/attacks-on-coap) /
-[Issues](https://github.com/core-wg/attacks-on-coap/issues)
 * **coap-pubsub** -
 [Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-coap-pubsub.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-coap-pubsub) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-pubsub/) /
 [Repo](https://github.com/core-wg/coap-pubsub) /
 [Issues](https://github.com/core-wg/coap-pubsub/issues)
+* **attacks-on-coap** -
+[Editors’ Draft](https://core-wg.github.io/attacks-on-coap/#go.draft-ietf-core-attacks-on-coap.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-attacks-on-coap/) /
+[Repo](https://github.com/core-wg/attacks-on-coap) /
+[Issues](https://github.com/core-wg/attacks-on-coap/issues)
 * **cocoa** -
 [Editors’ Draft](https://core-wg.github.io/cocoa/draft-ietf-core-cocoa.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-cocoa) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-cocoa/) /
 [Repo](https://github.com/core-wg/cocoa) /
 [Issues](https://github.com/core-wg/cocoa/issues)
 * **comi** -
 [Editors’ Draft](https://core-wg.github.io/comi/draft-ietf-core-comi.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-comi) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-comi/) /
 [Repo](https://github.com/core-wg/comi) /
 [Issues](https://github.com/core-wg/comi/issues)
 * **conditional-attributes** -
 [Editors’ Draft](https://core-wg.github.io/conditional-attributes/#go.draft-ietf-core-conditional-attributes.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-conditional-attributes) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-conditional-attributes/) /
 [Repo](https://github.com/core-wg/conditional-attributes) /
 [Issues](https://github.com/core-wg/conditional-attributes/issues)
 * **coral** -
 [Editors’ Draft](https://core-wg.github.io/coral/#go.draft-ietf-core-coral.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-coral) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coral/) /
 [Repo](https://github.com/core-wg/coral) /
 [Issues](https://github.com/core-wg/coral/issues)
+* **dns-over-coap** -
+[Editors’ Draft](https://core-wg.github.io/draft-dns-over-coap/#go.draft-ietf-core-dns-over-coap.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-dns-over-coap/) /
+[Repo](https://github.com/core-wg/draft-dns-over-coap) /
+[Issues](https://github.com/core-wg/draft-dns-over-coap/issues)
 * **dynlink** -
 [Editors’ Draft](https://core-wg.github.io/dynlink/draft-ietf-core-dynlink.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-dynlink) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-dynlink/) /
 [Repo](https://github.com/core-wg/dynlink) /
 [Issues](https://github.com/core-wg/dynlink/issues)
 * **fasor** -
 [Editors’ Draft](https://core-wg.github.io/fasor/draft-ietf-core-fasor.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-fasor) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-fasor/) /
 [Repo](https://github.com/core-wg/fasor) /
 [Issues](https://github.com/core-wg/fasor/issues)
 * **groupcomm-bis** -
 [Editors’ Draft](https://core-wg.github.io/groupcomm-bis/#go.draft-ietf-core-groupcomm-bis.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-groupcomm-bis) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-groupcomm-bis/) /
 [Repo](https://github.com/core-wg/groupcomm-bis) /
 [Issues](https://github.com/core-wg/groupcomm-bis/issues)
 * **href** -
 [Editors’ Draft](https://core-wg.github.io/href/#go.draft-ietf-core-href.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-href) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-href/) /
 [Repo](https://github.com/core-wg/href) /
 [Issues](https://github.com/core-wg/href/issues)
 * **observe-multicast-notifications** -
 [Editors’ Draft](https://core-wg.github.io/observe-multicast-notifications/draft-ietf-core-observe-multicast-notifications.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-observe-multicast-notifications) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-observe-multicast-notifications/) /
 [Repo](https://github.com/core-wg/observe-multicast-notifications) /
 [Issues](https://github.com/core-wg/observe-multicast-notifications/issues)
 * **oscore-edhoc** -
 [Editors’ Draft](https://core-wg.github.io/oscore-edhoc/draft-ietf-core-oscore-edhoc.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-edhoc) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-edhoc/) /
 [Repo](https://github.com/core-wg/oscore-edhoc) /
 [Issues](https://github.com/core-wg/oscore-edhoc/issues)
 * **oscore-groupcomm** -
 [Editors’ Draft](https://core-wg.github.io/oscore-groupcomm/draft-ietf-core-oscore-groupcomm.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-groupcomm/) /
 [Repo](https://github.com/core-wg/oscore-groupcomm) /
 [Issues](https://github.com/core-wg/oscore-groupcomm/issues)
 * **rd-dns-sd** -
 [Editors’ Draft](https://core-wg.github.io/rd-dns-sd/draft-ietf-core-rd-dns-sd.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-rd-dns-sd) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-rd-dns-sd/) /
 [Repo](https://github.com/core-wg/rd-dns-sd) /
 [Issues](https://github.com/core-wg/rd-dns-sd/issues)
 * **sid** -
 [Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-sid-latest.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-sid) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-sid/) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 Issues
 * **transport-indication** -
 [Editors’ Draft](https://core-wg.github.io/transport-indication/draft-ietf-core-transport-indication.html) /
-[WG Draft](https://datatracker.ietf.org/doc/draft-ietf-core-transport-indication) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-transport-indication/) /
 [Repo](https://github.com/core-wg/transport-indication) /
 [Issues](https://github.com/core-wg/transport-indication/issues)
 * **yang-library** -
 [Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-library-latest.html) /
-[WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-library) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-yang-library/) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 Issues
 
