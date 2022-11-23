@@ -6,10 +6,10 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week, starting from 2022-08-31.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) 2022-12-07, and then every other week starting from 2023-01-18 until IETF 116.
 
 <!--
-We will meet at [IETF 115](https://datatracker.ietf.org/meeting/115/session/core), on TBD
+We will meet at [IETF 116](https://datatracker.ietf.org/meeting/116/session/core), on TBD
 -->
 
 ### CoAP Implementations
@@ -18,11 +18,6 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 
 ### Working Group Draft Repos
 
-* **problem-details** -
-[Editors’ Draft](https://core-wg.github.io/core-problem-details/draft-ietf-core-problem-details.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-problem-details/) /
-[Repo](https://github.com/core-wg/core-problem-details) /
-[Issues](https://github.com/core-wg/core-problem-details/issues)
 * **coap-pubsub** -
 [Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-coap-pubsub.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-pubsub/) /
@@ -103,6 +98,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-sid/) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 Issues
+* **target-attr** -
+[Editors’ Draft](https://core-wg.github.io/core-target-attr/draft-ietf-core-target-attr.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-target-attr) /
+[Repo](https://github.com/core-wg/core-target-attr) /
+[Issues](https://github.com/core-wg/core-target-attr/issues)
 * **transport-indication** -
 [Editors’ Draft](https://core-wg.github.io/transport-indication/draft-ietf-core-transport-indication.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-transport-indication/) /
@@ -196,6 +196,12 @@ Issues
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-cbor) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 [Issues](https://github.com/core-wg/yang-cbor/issues)
+* **[RFC9290](https://tools.ietf.org/html/rfc9290) problem-details** -
+[Editors’ Draft](https://core-wg.github.io/core-problem-details/draft-ietf-core-problem-details.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-problem-details/) /
+[Repo](https://github.com/core-wg/core-problem-details) /
+[Issues](https://github.com/core-wg/core-problem-details/issues)
+
 
 ### All CoRE WG RFCs
 
@@ -222,3 +228,4 @@ Issues
 * [Constrained Application Protocol (CoAP) Block-Wise Transfer Options Supporting Robust Transmission](https://datatracker.ietf.org/doc/html/rfc9177)
 * [Sensor Measurement Lists (SenML) Fields for Indicating Data Value Content-Format](https://datatracker.ietf.org/doc/html/rfc9193)
 * [Encoding of Data Modeled with YANG in the Concise Binary Object Representation (CBOR)](https://datatracker.ietf.org/doc/html/rfc9254)
+* [Concise Problem Details for Constrained Application Protocol (CoAP) APIs](https://datatracker.ietf.org/doc/html/rfc9290)
