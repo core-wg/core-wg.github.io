@@ -18,16 +18,16 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 
 ### Working Group Draft Repos
 
-* **coap-pubsub** -
-[Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-coap-pubsub.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-pubsub/) /
-[Repo](https://github.com/core-wg/coap-pubsub) /
-[Issues](https://github.com/core-wg/coap-pubsub/issues)
 * **attacks-on-coap** -
 [Editors’ Draft](https://core-wg.github.io/attacks-on-coap/#go.draft-ietf-core-attacks-on-coap.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-attacks-on-coap/) /
 [Repo](https://github.com/core-wg/attacks-on-coap) /
 [Issues](https://github.com/core-wg/attacks-on-coap/issues)
+* **coap-pubsub** -
+[Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-coap-pubsub.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-pubsub/) /
+[Repo](https://github.com/core-wg/coap-pubsub) /
+[Issues](https://github.com/core-wg/coap-pubsub/issues)
 * **cocoa** -
 [Editors’ Draft](https://core-wg.github.io/cocoa/draft-ietf-core-cocoa.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-cocoa/) /
@@ -73,6 +73,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-href/) /
 [Repo](https://github.com/core-wg/href) /
 [Issues](https://github.com/core-wg/href/issues)
+* **oscore-key-update** -
+[Editors’ Draft](https://core-wg.github.io/oscore-key-update/draft-ietf-core-oscore-key-update.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-key-update/) /
+[Repo](https://github.com/core-wg/oscore-key-update) /
+[Issues](https://github.com/core-wg/oscore-key-update/issues)
 * **observe-multicast-notifications** -
 [Editors’ Draft](https://core-wg.github.io/observe-multicast-notifications/draft-ietf-core-observe-multicast-notifications.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-observe-multicast-notifications/) /
