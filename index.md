@@ -73,6 +73,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-href/) /
 [Repo](https://github.com/core-wg/href) /
 [Issues](https://github.com/core-wg/href/issues)
+* **oscore-key-limits** -
+[Editors’ Draft](https://core-wg.github.io/oscore-key-limits/draft-ietf-core-oscore-key-limits.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-key-limits/) /
+[Repo](https://github.com/core-wg/oscore-key-limits) /
+[Issues](https://github.com/core-wg/oscore-key-limits/issues)
 * **oscore-key-update** -
 [Editors’ Draft](https://core-wg.github.io/oscore-key-update/draft-ietf-core-oscore-key-update.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-key-update/) /
