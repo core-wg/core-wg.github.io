@@ -6,11 +6,11 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-<!--
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2023-01-18 until IETF 116.
--->
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2023-04-26 until IETF 117.
 
-We will meet at [IETF 116](https://datatracker.ietf.org/meeting/116/session/core), on Tuesday, 2023-03-28, at 04:00-06:00 UTC
+<!--
+We will meet at [IETF 117](https://datatracker.ietf.org/meeting/117/session/core), on TBD, TBD, at TBD UTC
+-->
 
 ### CoAP Implementations
 
@@ -23,6 +23,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-attacks-on-coap/) /
 [Repo](https://github.com/core-wg/attacks-on-coap) /
 [Issues](https://github.com/core-wg/attacks-on-coap/issues)
+* **coap-pm** -
+[Editors’ Draft](https://core-wg.github.io/coap-pm/#go.draft-ietf-core-coap-pm.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-pm) /
+[Repo](https://github.com/core-wg/coap-pm) /
+[Issues](https://github.com/core-wg/coap-pm/issues)
 * **coap-pubsub** -
 [Editors’ Draft](https://core-wg.github.io/coap-pubsub/draft-ietf-core-coap-pubsub.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-pubsub/) /
