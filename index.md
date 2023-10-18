@@ -8,9 +8,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2023-08-30 until IETF 118.
 
-<!--
-We will meet at [IETF 118](https://datatracker.ietf.org/meeting/118/session/core), on TBD, TBD, at TBD UTC
--->
+We will meet at [IETF 118](https://datatracker.ietf.org/meeting/118/session/core), on 2023-11-09, at 08:30-10:30 UTC
 
 ### CoAP Implementations
 
@@ -78,21 +76,16 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-href/) /
 [Repo](https://github.com/core-wg/href) /
 [Issues](https://github.com/core-wg/href/issues)
-* **oscore-key-limits** -
-[Editors’ Draft](https://core-wg.github.io/oscore-key-limits/draft-ietf-core-oscore-key-limits.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-key-limits/) /
-[Repo](https://github.com/core-wg/oscore-key-limits) /
-[Issues](https://github.com/core-wg/oscore-key-limits/issues)
-* **oscore-key-update** -
-[Editors’ Draft](https://core-wg.github.io/oscore-key-update/draft-ietf-core-oscore-key-update.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-key-update/) /
-[Repo](https://github.com/core-wg/oscore-key-update) /
-[Issues](https://github.com/core-wg/oscore-key-update/issues)
 * **observe-multicast-notifications** -
 [Editors’ Draft](https://core-wg.github.io/observe-multicast-notifications/draft-ietf-core-observe-multicast-notifications.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-observe-multicast-notifications/) /
 [Repo](https://github.com/core-wg/observe-multicast-notifications) /
 [Issues](https://github.com/core-wg/observe-multicast-notifications/issues)
+* **oscore-capable-proxies** -
+[Editors’ Draft](https://core-wg.github.io/oscore-capable-proxies/draft-ietf-core-oscore-capable-proxies.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-capable-proxies/) /
+[Repo](https://github.com/core-wg/oscore-capable-proxies) /
+[Issues](https://github.com/core-wg/oscore-capable-proxies/issues)
 * **oscore-edhoc** -
 [Editors’ Draft](https://core-wg.github.io/oscore-edhoc/draft-ietf-core-oscore-edhoc.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-edhoc/) /
@@ -103,6 +96,16 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-groupcomm/) /
 [Repo](https://github.com/core-wg/oscore-groupcomm) /
 [Issues](https://github.com/core-wg/oscore-groupcomm/issues)
+* **oscore-key-limits** -
+[Editors’ Draft](https://core-wg.github.io/oscore-key-limits/draft-ietf-core-oscore-key-limits.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-key-limits/) /
+[Repo](https://github.com/core-wg/oscore-key-limits) /
+[Issues](https://github.com/core-wg/oscore-key-limits/issues)
+* **oscore-key-update** -
+[Editors’ Draft](https://core-wg.github.io/oscore-key-update/draft-ietf-core-oscore-key-update.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-key-update/) /
+[Repo](https://github.com/core-wg/oscore-key-update) /
+[Issues](https://github.com/core-wg/oscore-key-update/issues)
 * **rd-dns-sd** -
 [Editors’ Draft](https://core-wg.github.io/rd-dns-sd/draft-ietf-core-rd-dns-sd.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-rd-dns-sd/) /
