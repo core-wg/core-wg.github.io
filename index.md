@@ -6,7 +6,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2023-11-22 until IETF 119.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2024-01-17 until IETF 119.
 
 <!-- We will meet at [IETF 119](https://datatracker.ietf.org/meeting/119/session/core), on TBD, at TBD UTC-->
 
@@ -71,6 +71,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-groupcomm-bis/) /
 [Repo](https://github.com/core-wg/groupcomm-bis) /
 [Issues](https://github.com/core-wg/groupcomm-bis/issues)
+* **groupcomm-proxy** -
+[Editors’ Draft](https://core-wg.github.io/groupcomm-proxy/#go.draft-ietf-core-groupcomm-proxy.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-groupcomm-proxy/) /
+[Repo](https://github.com/core-wg/groupcomm-proxy) /
+[Issues](https://github.com/core-wg/groupcomm-proxy/issues)
 * **href** -
 [Editors’ Draft](https://core-wg.github.io/href/#go.draft-ietf-core-href.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-href/) /
