@@ -6,7 +6,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2024-01-17 until IETF 119.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2024-04-10 until IETF 120.
 
 <!-- We will meet at [IETF 119](https://datatracker.ietf.org/meeting/119/session/core), on TBD, at TBD UTC-->
 
@@ -96,6 +96,11 @@ There is a number of [available implementations of CoAP](http://coap.technology)
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-edhoc/) /
 [Repo](https://github.com/core-wg/oscore-edhoc) /
 [Issues](https://github.com/core-wg/oscore-edhoc/issues)
+* **oscore-id-update** -
+[Editors’ Draft](https://core-wg.github.io/oscore-id-update/draft-ietf-core-oscore-id-update.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-id-update/) /
+[Repo](https://github.com/core-wg/oscore-id-update) /
+[Issues](https://github.com/core-wg/oscore-id-update/issues)
 * **oscore-groupcomm** -
 [Editors’ Draft](https://core-wg.github.io/oscore-groupcomm/draft-ietf-core-oscore-groupcomm.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-groupcomm/) /
