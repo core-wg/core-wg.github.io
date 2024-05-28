@@ -12,7 +12,7 @@ We will be having [virtual interim meetings](https://datatracker.ietf.org/meetin
 
 ### CoAP Implementations
 
-There is a number of [available implementations of CoAP](http://coap.technology).
+There is a number of [available implementations of CoAP](http://coap.space).
 
 ### Working Group Draft Repos
 
