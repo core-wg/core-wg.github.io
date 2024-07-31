@@ -6,7 +6,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2024-04-10 until IETF 120.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2024-08-28 until IETF 121.
 
 <!-- We will meet at [IETF 119](https://datatracker.ietf.org/meeting/119/session/core), on TBD, at TBD UTC-->
 
@@ -125,12 +125,7 @@ There is a number of [available implementations of CoAP](http://coap.space).
 [Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-sid-latest.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-sid/) /
 [Repo](https://github.com/core-wg/yang-cbor) /
-Issues
-* **target-attr** -
-[Editors’ Draft](https://core-wg.github.io/core-target-attr/draft-ietf-core-target-attr.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-target-attr) /
-[Repo](https://github.com/core-wg/core-target-attr) /
-[Issues](https://github.com/core-wg/core-target-attr/issues)
+[Issues](https://github.com/core-wg/yang-cbor/issues)
 * **transport-indication** -
 [Editors’ Draft](https://core-wg.github.io/transport-indication/draft-ietf-core-transport-indication.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-transport-indication/) /
@@ -229,6 +224,11 @@ Issues
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-problem-details/) /
 [Repo](https://github.com/core-wg/core-problem-details) /
 [Issues](https://github.com/core-wg/core-problem-details/issues)
+* **[RFC9423](https://tools.ietf.org/html/rfc9423) target-attr** -
+[Editors’ Draft](https://core-wg.github.io/core-target-attr/draft-ietf-core-target-attr.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-target-attr) /
+[Repo](https://github.com/core-wg/core-target-attr) /
+[Issues](https://github.com/core-wg/core-target-attr/issues)
 
 
 ### All CoRE WG RFCs
@@ -257,3 +257,4 @@ Issues
 * [Sensor Measurement Lists (SenML) Fields for Indicating Data Value Content-Format](https://datatracker.ietf.org/doc/html/rfc9193)
 * [Encoding of Data Modeled with YANG in the Concise Binary Object Representation (CBOR)](https://datatracker.ietf.org/doc/html/rfc9254)
 * [Concise Problem Details for Constrained Application Protocol (CoAP) APIs](https://datatracker.ietf.org/doc/html/rfc9290)
+* [Constrained RESTful Environments (CoRE) Target Attributes Registry](https://datatracker.ietf.org/doc/html/rfc9423)
