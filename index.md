@@ -21,6 +21,11 @@ There is a number of [available implementations of CoAP](http://coap.space).
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-attacks-on-coap/) /
 [Repo](https://github.com/core-wg/attacks-on-coap) /
 [Issues](https://github.com/core-wg/attacks-on-coap/issues)
+* **coap-dtls-alpn** -
+[Editors’ Draft](https://core-wg.github.io/coap-dtls-alpn/#go.draft-ietf-core-coap-dtls-alpn.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-dtls-alpn) /
+[Repo](https://github.com/core-wg/coap-dtls-alpn) /
+[Issues](https://github.com/core-wg/coap-dtls-alpn/issues)
 * **coap-pm** -
 [Editors’ Draft](https://core-wg.github.io/coap-pm/#go.draft-ietf-core-coap-pm.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-pm) /
