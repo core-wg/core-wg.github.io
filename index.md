@@ -8,7 +8,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2024-08-28 until IETF 121.
 
-<!-- We will meet at [IETF 119](https://datatracker.ietf.org/meeting/119/session/core), on TBD, at TBD UTC-->
+We will meet at [IETF 121](https://datatracker.ietf.org/meeting/121/session/core), on 2024-11-05 at 09:30-11:30 UTC
 
 ### CoAP Implementations
 
@@ -56,6 +56,11 @@ There is a number of [available implementations of CoAP](http://coap.space).
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coral/) /
 [Repo](https://github.com/core-wg/coral) /
 [Issues](https://github.com/core-wg/coral/issues)
+* **corr-clar** -
+[Editors’ Draft](https://core-wg.github.io/corrclar/#go.draft-ietf-core-corr-clar.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-corr-clar/) /
+[Repo](https://github.com/core-wg/corrclar) /
+[Issues](https://github.com/core-wg/corrclar/issues)
 * **dns-over-coap** -
 [Editors’ Draft](https://core-wg.github.io/draft-dns-over-coap/#go.draft-ietf-core-dns-over-coap.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-dns-over-coap/) /
@@ -126,18 +131,13 @@ There is a number of [available implementations of CoAP](http://coap.space).
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-rd-dns-sd/) /
 [Repo](https://github.com/core-wg/rd-dns-sd) /
 [Issues](https://github.com/core-wg/rd-dns-sd/issues)
-* **sid** -
-[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-sid-latest.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-sid/) /
-[Repo](https://github.com/core-wg/yang-cbor) /
-[Issues](https://github.com/core-wg/yang-cbor/issues)
 * **transport-indication** -
 [Editors’ Draft](https://core-wg.github.io/transport-indication/draft-ietf-core-transport-indication.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-transport-indication/) /
 [Repo](https://github.com/core-wg/transport-indication) /
 [Issues](https://github.com/core-wg/transport-indication/issues)
 * **yang-library** -
-[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-library-latest.html) /
+[Editors’ Draft](https://core-wg.github.io/yang-cbor/media-type-fix/draft-ietf-core-yang-library-latest.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-yang-library/) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 Issues
@@ -220,7 +220,7 @@ Issues
 [Repo](https://github.com/core-wg/senml-data-ct) /
 [Issues](https://github.com/core-wg/senml-data-ct/issues)
 * **[RFC9254](https://tools.ietf.org/html/rfc9254) yang-cbor** -
-[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-cbor-latest.html) /
+[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-yang-cbor.html) /
 [WG Draft](https://tools.ietf.org/html/draft-ietf-core-yang-cbor) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 [Issues](https://github.com/core-wg/yang-cbor/issues)
@@ -234,7 +234,11 @@ Issues
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-target-attr) /
 [Repo](https://github.com/core-wg/core-target-attr) /
 [Issues](https://github.com/core-wg/core-target-attr/issues)
-
+* **[RFC9595](https://tools.ietf.org/html/rfc9595) sid** -
+[Editors’ Draft](https://core-wg.github.io/yang-cbor/draft-ietf-core-sid.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-sid/) /
+[Repo](https://github.com/core-wg/yang-cbor) /
+[Issues](https://github.com/core-wg/yang-cbor/issues)
 
 ### All CoRE WG RFCs
 
@@ -263,3 +267,4 @@ Issues
 * [Encoding of Data Modeled with YANG in the Concise Binary Object Representation (CBOR)](https://datatracker.ietf.org/doc/html/rfc9254)
 * [Concise Problem Details for Constrained Application Protocol (CoAP) APIs](https://datatracker.ietf.org/doc/html/rfc9290)
 * [Constrained RESTful Environments (CoRE) Target Attributes Registry](https://datatracker.ietf.org/doc/html/rfc9423)
+* [YANG Schema Item iDentifier (YANG SID)](https://datatracker.ietf.org/doc/html/rfc9595)
