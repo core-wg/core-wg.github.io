@@ -6,9 +6,9 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2024-08-28 until IETF 121.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) on 2024-12-18 and then every other week starting from 2025-01-15 until IETF 122.
 
-We will meet at [IETF 121](https://datatracker.ietf.org/meeting/121/session/core), on 2024-11-05 at 09:30-11:30 UTC
+<!--We will meet at [IETF 121](https://datatracker.ietf.org/meeting/121/session/core), on 2024-11-05 at 09:30-11:30 UTC-->
 
 ### CoAP Implementations
 
