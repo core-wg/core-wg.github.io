@@ -6,7 +6,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 ### Upcoming Meetings
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) on 2024-12-18 and then every other week starting from 2025-01-15 until IETF 122.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2025-01-15 until IETF 122.
 
 <!--We will meet at [IETF 121](https://datatracker.ietf.org/meeting/121/session/core), on 2024-11-05 at 09:30-11:30 UTC-->
 
@@ -21,6 +21,11 @@ There is a number of [available implementations of CoAP](http://coap.space).
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-attacks-on-coap/) /
 [Repo](https://github.com/core-wg/attacks-on-coap) /
 [Issues](https://github.com/core-wg/attacks-on-coap/issues)
+* **cf-reg-update** -
+[Editors’ Draft](https://core-wg.github.io/cf-reg-update/draft-ietf-core-cf-reg-update.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-cf-reg-update) /
+[Repo](https://github.com/core-wg/cf-reg-update) /
+[Issues](https://github.com/core-wg/cf-reg-update/issues)
 * **coap-dtls-alpn** -
 [Editors’ Draft](https://core-wg.github.io/coap-dtls-alpn/#go.draft-ietf-core-coap-dtls-alpn.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-dtls-alpn) /
@@ -101,11 +106,6 @@ There is a number of [available implementations of CoAP](http://coap.space).
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-capable-proxies/) /
 [Repo](https://github.com/core-wg/oscore-capable-proxies) /
 [Issues](https://github.com/core-wg/oscore-capable-proxies/issues)
-* **oscore-edhoc** -
-[Editors’ Draft](https://core-wg.github.io/oscore-edhoc/draft-ietf-core-oscore-edhoc.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-edhoc/) /
-[Repo](https://github.com/core-wg/oscore-edhoc) /
-[Issues](https://github.com/core-wg/oscore-edhoc/issues)
 * **oscore-id-update** -
 [Editors’ Draft](https://core-wg.github.io/oscore-id-update/draft-ietf-core-oscore-id-update.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-id-update/) /
@@ -239,6 +239,11 @@ Issues
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-sid/) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 [Issues](https://github.com/core-wg/yang-cbor/issues)
+* **[RFC9668](https://tools.ietf.org/html/rfc9668) oscore-edhoc** -
+[Editors’ Draft](https://core-wg.github.io/oscore-edhoc/draft-ietf-core-oscore-edhoc.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-edhoc/) /
+[Repo](https://github.com/core-wg/oscore-edhoc) /
+[Issues](https://github.com/core-wg/oscore-edhoc/issues)
 
 ### All CoRE WG RFCs
 
@@ -268,3 +273,4 @@ Issues
 * [Concise Problem Details for Constrained Application Protocol (CoAP) APIs](https://datatracker.ietf.org/doc/html/rfc9290)
 * [Constrained RESTful Environments (CoRE) Target Attributes Registry](https://datatracker.ietf.org/doc/html/rfc9423)
 * [YANG Schema Item iDentifier (YANG SID)](https://datatracker.ietf.org/doc/html/rfc9595)
+* [Using Ephemeral Diffie-Hellman Over COSE (EDHOC) with the Constrained Application Protocol (CoAP) and Object Security for Constrained RESTful Environments (OSCORE)](https://datatracker.ietf.org/doc/html/rfc9668)
