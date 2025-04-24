@@ -141,6 +141,11 @@ There is a number of [available implementations of CoAP](http://coap.space).
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-yang-library/) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 Issues
+* **yang-sid-pen** -
+[Editors’ Draft](https://core-wg.github.io/sid-pen/draft-ietf-core-yang-sid-pen.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-yang-sid-pen/) /
+[Repo](https://github.com/core-wg/sid-pen) /
+[Issues](https://github.com/core-wg/sid-pen/issues)
 
 ### Working Group RFC Repos
 
