@@ -21,11 +21,21 @@ There is a number of [available implementations of CoAP](http://coap.space).
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-attacks-on-coap/) /
 [Repo](https://github.com/core-wg/attacks-on-coap) /
 [Issues](https://github.com/core-wg/attacks-on-coap/issues)
+* **cacheable-oscore** -
+Editors’ Draft /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-cacheable-oscore) /
+[Repo](https://github.com/core-wg/cacheable-oscore) /
+[Issues](https://github.com/core-wg/cacheable-oscore/issues)
 * **cf-reg-update** -
 [Editors’ Draft](https://core-wg.github.io/cf-reg-update/draft-ietf-core-cf-reg-update.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-cf-reg-update) /
 [Repo](https://github.com/core-wg/cf-reg-update) /
 [Issues](https://github.com/core-wg/cf-reg-update/issues)
+* **coap-bp** -
+Editors’ Draft /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-bp) /
+[Repo](https://github.com/core-wg/coap-bp) /
+[Issues](https://github.com/core-wg/coap-bp/issues)
 * **coap-dtls-alpn** -
 [Editors’ Draft](https://core-wg.github.io/coap-dtls-alpn/#go.draft-ietf-core-coap-dtls-alpn.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-dtls-alpn) /
