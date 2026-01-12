@@ -8,7 +8,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 <!-- We will meet at [IETF 122](https://datatracker.ietf.org/meeting/122/session/core), on 2025-03-18 at 02:30-04:30 UTC -->
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2025-04-09 until IETF 123.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2026-01-14 until IETF 125.
 
 ### CoAP Implementations
 
@@ -141,6 +141,11 @@ Editors’ Draft /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-rd-dns-sd/) /
 [Repo](https://github.com/core-wg/rd-dns-sd) /
 [Issues](https://github.com/core-wg/rd-dns-sd/issues)
+* **responses** -
+[Editors’ Draft](https://core-wg.github.io/draft-ietf-core-responses/draft-ietf-core-responses.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-responses/) /
+[Repo](https://github.com/core-wg/draft-ietf-core-responses) /
+[Issues](https://github.com/core-wg/draft-ietf-core-responses/issues)
 * **transport-indication** -
 [Editors’ Draft](https://core-wg.github.io/transport-indication/draft-ietf-core-transport-indication.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-transport-indication/) /
