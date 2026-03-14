@@ -8,7 +8,7 @@ You can see the current drafts on the [CoRE WG Github](https://github.com/core-w
 
 <!-- We will meet at [IETF 122](https://datatracker.ietf.org/meeting/122/session/core), on 2025-03-18 at 02:30-04:30 UTC -->
 
-We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2026-01-14 until IETF 125.
+We will be having [virtual interim meetings](https://datatracker.ietf.org/meeting/upcoming) every other week starting from 2026-04-22 until IETF 126.
 
 ### CoAP Implementations
 
@@ -156,6 +156,11 @@ Editors’ Draft /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-yang-library/) /
 [Repo](https://github.com/core-wg/yang-cbor) /
 Issues
+* **yang-yang-metadata** -
+[Editors’ Draft](https://core-wg.github.io/draft-ietf-core-yang-metadata/draft-ietf-core-yang-metadata.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-yang-metadata) /
+[Repo](https://github.com/core-wg/draft-ietf-core-yang-metadata) /
+[Issues](https://github.com/core-wg/draft-ietf-core-yang-metadata/issues)
 * **yang-sid-pen** -
 [Editors’ Draft](https://core-wg.github.io/sid-pen/draft-ietf-core-yang-sid-pen.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-yang-sid-pen/) /
