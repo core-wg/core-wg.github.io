@@ -26,21 +26,16 @@ Editors’ Draft /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-cacheable-oscore) /
 [Repo](https://github.com/core-wg/cacheable-oscore) /
 [Issues](https://github.com/core-wg/cacheable-oscore/issues)
-* **cf-reg-update** -
-[Editors’ Draft](https://core-wg.github.io/cf-reg-update/draft-ietf-core-cf-reg-update.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-cf-reg-update) /
-[Repo](https://github.com/core-wg/cf-reg-update) /
-[Issues](https://github.com/core-wg/cf-reg-update/issues)
 * **coap-bp** -
 Editors’ Draft /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-bp) /
 [Repo](https://github.com/core-wg/coap-bp) /
 [Issues](https://github.com/core-wg/coap-bp/issues)
-* **coap-dtls-alpn** -
-[Editors’ Draft](https://core-wg.github.io/coap-dtls-alpn/#go.draft-ietf-core-coap-dtls-alpn.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-dtls-alpn) /
-[Repo](https://github.com/core-wg/coap-dtls-alpn) /
-[Issues](https://github.com/core-wg/coap-dtls-alpn/issues)
+* **coap-over-gatt** -
+[Editors’ Draft](https://core-wg.github.io/coap-over-gatt/#go.draft-ietf-core-coap-over-gatt.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-over-gatt) /
+[Repo](https://github.com/core-wg/coap-over-gatt) /
+[Issues](https://github.com/core-wg/coap-over-gatt/issues)
 * **coap-pm** -
 [Editors’ Draft](https://core-wg.github.io/coap-pm/#go.draft-ietf-core-coap-pm.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-pm) /
@@ -76,11 +71,6 @@ Editors’ Draft /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-corr-clar/) /
 [Repo](https://github.com/core-wg/corrclar) /
 [Issues](https://github.com/core-wg/corrclar/issues)
-* **dns-over-coap** -
-[Editors’ Draft](https://core-wg.github.io/draft-dns-over-coap/#go.draft-ietf-core-dns-over-coap.html) /
-[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-dns-over-coap/) /
-[Repo](https://github.com/core-wg/draft-dns-over-coap) /
-[Issues](https://github.com/core-wg/draft-dns-over-coap/issues)
 * **dynlink** -
 [Editors’ Draft](https://core-wg.github.io/dynlink/draft-ietf-core-dynlink.html) /
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-dynlink/) /
@@ -269,6 +259,21 @@ Issues
 [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-oscore-edhoc/) /
 [Repo](https://github.com/core-wg/oscore-edhoc) /
 [Issues](https://github.com/core-wg/oscore-edhoc/issues)
+* **[RFC9876](https://tools.ietf.org/html/rfc9876) cf-reg-update** -
+[Editors’ Draft](https://core-wg.github.io/cf-reg-update/draft-ietf-core-cf-reg-update.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-cf-reg-update) /
+[Repo](https://github.com/core-wg/cf-reg-update) /
+[Issues](https://github.com/core-wg/cf-reg-update/issues)
+* **[RFC9952](https://tools.ietf.org/html/rfc9952) coap-dtls-alpn** -
+[Editors’ Draft](https://core-wg.github.io/coap-dtls-alpn/#go.draft-ietf-core-coap-dtls-alpn.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-coap-dtls-alpn) /
+[Repo](https://github.com/core-wg/coap-dtls-alpn) /
+[Issues](https://github.com/core-wg/coap-dtls-alpn/issues)
+* **[RFC9953](https://tools.ietf.org/html/rfc9953) dns-over-coap** -
+[Editors’ Draft](https://core-wg.github.io/draft-dns-over-coap/#go.draft-ietf-core-dns-over-coap.html) /
+[WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-core-dns-over-coap/) /
+[Repo](https://github.com/core-wg/draft-dns-over-coap) /
+[Issues](https://github.com/core-wg/draft-dns-over-coap/issues)
 
 ### All CoRE WG RFCs
 
@@ -299,3 +304,6 @@ Issues
 * [Constrained RESTful Environments (CoRE) Target Attributes Registry](https://datatracker.ietf.org/doc/html/rfc9423)
 * [YANG Schema Item iDentifier (YANG SID)](https://datatracker.ietf.org/doc/html/rfc9595)
 * [Using Ephemeral Diffie-Hellman Over COSE (EDHOC) with the Constrained Application Protocol (CoAP) and Object Security for Constrained RESTful Environments (OSCORE)](https://datatracker.ietf.org/doc/html/rfc9668)
+* [Updates to the IANA Registration Procedures for Constrained Application Protocol (CoAP) Content-Formats](https://datatracker.ietf.org/doc/html/rfc9876)
+* [Application-Layer Protocol Negotiation (ALPN) ID for CoAP over DTLS](https://datatracker.ietf.org/doc/html/rfc9952)
+* [DNS over CoAP (DoC)](https://datatracker.ietf.org/doc/html/rfc9953)
